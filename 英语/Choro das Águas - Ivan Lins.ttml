@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:itunes="http://music.apple.com/itunes/ttml">
+    <body>
+        <div>
+            <p begin="00:00:11.248" end="00:00:15.680">
+                <span begin="00:00:11.248" end="00:00:11.524">Esse </span>
+                <span begin="00:00:11.524" end="00:00:11.755">meu </span>
+                <span begin="00:00:11.755" end="00:00:12.714">choro </span>
+                <span begin="00:00:12.714" end="00:00:13.029">não </span>
+                <span begin="00:00:13.029" end="00:00:14.095">cabe </span>
+                <span begin="00:00:14.095" end="00:00:14.417">no </span>
+                <span begin="00:00:14.417" end="00:00:15.680">peito</span>
+                <span ttm:role="x-translation">我的哭泣融不入我心</span>
+            </p>
+            <p begin="00:00:16.811" end="00:00:21.496">
+                <span begin="00:00:16.811" end="00:00:17.118">Arde </span>
+                <span begin="00:00:17.118" end="00:00:17.492">por </span>
+                <span begin="00:00:17.492" end="00:00:18.332">dentro </span>
+                <span begin="00:00:18.332" end="00:00:18.564">e </span>
+                <span begin="00:00:18.564" end="00:00:19.809">rola </span>
+                <span begin="00:00:19.809" end="00:00:20.128">na </span>
+                <span begin="00:00:20.128" end="00:00:21.496">face</span>
+                <span ttm:role="x-translation">内心因此烧灼，泪水从脸上滚落</span>
+            </p>
+            <p begin="00:00:21.793" end="00:00:27.120">
+                <span begin="00:00:21.793" end="00:00:22.665">Molha </span>
+                <span begin="00:00:22.665" end="00:00:22.963">por </span>
+                <span begin="00:00:22.963" end="00:00:23.938">fora </span>
+                <span begin="00:00:23.938" end="00:00:24.442">e </span>
+                <span begin="00:00:24.442" end="00:00:25.280">estraga </span>
+                <span begin="00:00:25.280" end="00:00:25.578">o </span>
+                <span begin="00:00:25.578" end="00:00:27.120">disfarce</span>
+                <span ttm:role="x-translation">脸庞因此湿润，我的伪装被褪去</span>
+            </p>
+            <p begin="00:00:28.185" end="00:00:32.659">
+                <span begin="00:00:28.185" end="00:00:28.934">Lava </span>
+                <span begin="00:00:28.934" end="00:00:29.677">esse </span>
+                <span begin="00:00:29.677" end="00:00:32.659">coração</span>
+                <span ttm:role="x-translation">我的心被此洗濯</span>
+            </p>
+            <p begin="00:00:33.925" end="00:00:37.838">
+                <span begin="00:00:33.925" end="00:00:34.123">Esse </span>
+                <span begin="00:00:34.123" end="00:00:34.560">meu </span>
+                <span begin="00:00:34.560" end="00:00:35.334">choro </span>
+                <span begin="00:00:35.334" end="00:00:35.716">é </span>
+                <span begin="00:00:35.716" end="00:00:36.748">muito </span>
+                <span begin="00:00:36.748" end="00:00:37.838">doído</span>
+                <span ttm:role="x-translation">我的哭泣如此痛苦</span>
+            </p>
+            <p begin="00:00:39.206" end="00:00:43.565">
+                <span begin="00:00:39.206" end="00:00:39.450">Me </span>
+                <span begin="00:00:39.450" end="00:00:39.926">corta </span>
+                <span begin="00:00:39.926" end="00:00:40.170">a </span>
+                <span begin="00:00:40.170" end="00:00:41.092">fala </span>
+                <span begin="00:00:41.092" end="00:00:41.527">me </span>
+                <span begin="00:00:41.527" end="00:00:42.101">tapa </span>
+                <span begin="00:00:42.101" end="00:00:42.407">os </span>
+                <span begin="00:00:42.407" end="00:00:43.565">ouvidos</span>
+                <span ttm:role="x-translation">我为此语塞，耳廓被泪水覆没</span>
+            </p>
+            <p begin="00:00:43.913" end="00:00:49.892">
+                <span begin="00:00:43.913" end="00:00:44.374">Me </span>
+                <span begin="00:00:44.374" end="00:00:44.877">fere </span>
+                <span begin="00:00:44.877" end="00:00:45.386">os </span>
+                <span begin="00:00:45.386" end="00:00:46.570">olhos </span>
+                <span begin="00:00:46.570" end="00:00:46.980">com </span>
+                <span begin="00:00:46.980" end="00:00:48.065">vidro </span>
+                <span begin="00:00:48.065" end="00:00:49.892">moído</span>
+                <span ttm:role="x-translation">双眼如同被碎玻璃刺伤</span>
+            </p>
+            <p begin="00:00:50.719" end="00:00:55.257">
+                <span begin="00:00:50.719" end="00:00:51.231">Sangra </span>
+                <span begin="00:00:51.231" end="00:00:52.152">esse </span>
+                <span begin="00:00:52.152" end="00:00:55.257">coração</span>
+                <span ttm:role="x-translation">我的心为此滴血</span>
+            </p>
+            <p begin="00:01:29.884" end="00:01:34.422">
+                <span begin="00:01:29.884" end="00:01:30.078">Esse </span>
+                <span begin="00:01:30.078" end="00:01:30.341">meu </span>
+                <span begin="00:01:30.341" end="00:01:30.780">choro </span>
+                <span begin="00:01:30.780" end="00:01:31.157">é </span>
+                <span begin="00:01:31.157" end="00:01:31.427">o </span>
+                <span begin="00:01:31.427" end="00:01:32.278">choro </span>
+                <span begin="00:01:32.278" end="00:01:32.799">das </span>
+                <span begin="00:01:32.799" end="00:01:34.422">águas</span>
+                <span ttm:role="x-translation">我的哭泣如水般</span>
+            </p>
+            <p begin="00:01:35.191" end="00:01:39.560">
+                <span begin="00:01:35.191" end="00:01:35.480">Que </span>
+                <span begin="00:01:35.480" end="00:01:35.800">lava </span>
+                <span begin="00:01:35.800" end="00:01:36.103">as </span>
+                <span begin="00:01:36.103" end="00:01:37.013">telhas </span>
+                <span begin="00:01:37.013" end="00:01:37.283">que </span>
+                <span begin="00:01:37.283" end="00:01:38.004">rola </span>
+                <span begin="00:01:38.004" end="00:01:38.287">nas </span>
+                <span begin="00:01:38.287" end="00:01:39.560">calhas</span>
+                <span ttm:role="x-translation">从瓷砖上流过，从沟槽中坠落</span>
+            </p>
+            <p begin="00:01:39.791" end="00:01:45.513">
+                <span begin="00:01:39.791" end="00:01:39.987">Que </span>
+                <span begin="00:01:39.987" end="00:01:40.937">pinga </span>
+                <span begin="00:01:40.937" end="00:01:41.325">nas </span>
+                <span begin="00:01:41.325" end="00:01:42.470">bicas </span>
+                <span begin="00:01:42.470" end="00:01:42.817">e </span>
+                <span begin="00:01:42.817" end="00:01:43.892">deságua </span>
+                <span begin="00:01:43.892" end="00:01:44.116">na </span>
+                <span begin="00:01:44.116" end="00:01:45.513">gente</span>
+                <span ttm:role="x-translation">从喷口点点滴滴，流向我们</span>
+            </p>
+            <p begin="00:01:46.147" end="00:01:52.831">
+                <span begin="00:01:46.147" end="00:01:47.193">Afoga </span>
+                <span begin="00:01:47.193" end="00:01:48.144">esse </span>
+                <span begin="00:01:48.144" end="00:01:52.831">coração</span>
+                <span ttm:role="x-translation">我的心从此溺亡</span>
+            </p>
+        </div>
+    </body>
+</tt>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="04:58.019">
+        <div begin="01:45.560" end="02:42.897">
+            <p begin="01:45.560" end="01:51.160" ttm:agent="v1" itunes:key="L1">
+                <span begin="01:45.560" end="01:46.056">Thank </span>
+                <span begin="01:46.056" end="01:47.608">you </span>
+                <span begin="01:48.208" end="01:48.480">I'll </span>
+                <span begin="01:48.480" end="01:48.688">say </span>
+                <span begin="01:48.688" end="01:49.768">goodbye </span>
+                <span begin="01:49.984" end="01:51.160">soon</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">谢谢你我很快就会说再见</span>
+            </p>
+            <p begin="01:51.984" end="01:54.504" ttm:agent="v1" itunes:key="L2">
+                <span begin="01:51.984" end="01:52.176">Though </span>
+                <span begin="01:52.176" end="01:52.424">it's </span>
+                <span begin="01:52.424" end="01:52.704">the </span>
+                <span begin="01:52.704" end="01:53.056">end </span>
+                <span begin="01:53.136" end="01:53.312">of </span>
+                <span begin="01:53.312" end="01:53.584">the </span>
+                <span begin="01:53.584" end="01:54.504">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然这是世界末日</span>
+            </p>
+            <p begin="01:55.480" end="01:59.192" ttm:agent="v1" itunes:key="L3">
+                <span begin="01:55.480" end="01:55.808">Don't </span>
+                <span begin="01:55.808" end="01:56.136">blame </span>
+                <span begin="01:56.136" end="01:58.008">yourself </span>
+                <span begin="01:58.328" end="01:59.192">now</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">现在不要责备你自己</span>
+            </p>
+            <p begin="01:59.792" end="02:02.686" ttm:agent="v1" itunes:key="L4">
+                <span begin="01:59.792" end="01:59.984">And </span>
+                <span begin="01:59.984" end="02:00.272">if </span>
+                <span begin="02:00.272" end="02:00.952">it's </span>
+                <span begin="02:01.168" end="02:02.686">true</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">如果这是真的</span>
+            </p>
+            <p begin="02:03.062" end="02:09.646" ttm:agent="v1" itunes:key="L5">
+                <span begin="02:03.062" end="02:03.342">I </span>
+                <span begin="02:03.342" end="02:03.646">will </span>
+                <span begin="02:03.646" end="02:04.678">surround </span>
+                <span begin="02:04.910" end="02:06.102">you </span>
+                <span begin="02:06.430" end="02:06.646">and </span>
+                <span begin="02:06.646" end="02:06.822">give </span>
+                <span begin="02:06.822" end="02:07.094">life </span>
+                <span begin="02:07.206" end="02:07.414">to </span>
+                <span begin="02:07.414" end="02:07.661">a </span>
+                <span begin="02:07.661" end="02:09.646">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会围绕着你让这世界焕发生机</span>
+            </p>
+            <p begin="02:10.782" end="02:13.406" ttm:agent="v1" itunes:key="L6">
+                <span begin="02:10.782" end="02:11.134">That's </span>
+                <span begin="02:11.134" end="02:11.494">our </span>
+                <span begin="02:11.494" end="02:13.406">own</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">那是属于我们的</span>
+            </p>
+            <p begin="02:15.486" end="02:21.094" ttm:agent="v1" itunes:key="L7">
+                <span begin="02:15.486" end="02:15.982">Thank </span>
+                <span begin="02:16.222" end="02:17.438">you </span>
+                <span begin="02:18.166" end="02:18.430">I'll </span>
+                <span begin="02:18.430" end="02:18.718">say </span>
+                <span begin="02:18.718" end="02:19.782">goodbye </span>
+                <span begin="02:20.022" end="02:21.094">now</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">谢谢你我要说再见了</span>
+            </p>
+            <p begin="02:21.822" end="02:24.506" ttm:agent="v1" itunes:key="L8">
+                <span begin="02:21.822" end="02:22.166">Though </span>
+                <span begin="02:22.166" end="02:22.438">it's </span>
+                <span begin="02:22.438" end="02:22.726">the </span>
+                <span begin="02:22.726" end="02:23.166">end </span>
+                <span begin="02:23.310" end="02:23.478">of </span>
+                <span begin="02:23.478" end="02:23.662">the </span>
+                <span begin="02:23.662" end="02:24.506">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然这是世界末日</span>
+            </p>
+            <p begin="02:25.730" end="02:27.562" ttm:agent="v1" itunes:key="L9">
+                <span begin="02:25.730" end="02:25.978">Don't </span>
+                <span begin="02:25.978" end="02:26.234">blame </span>
+                <span begin="02:26.234" end="02:27.562">yourself</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">不要责怪你自己</span>
+            </p>
+            <p begin="02:29.706" end="02:32.490" ttm:agent="v1" itunes:key="L10">
+                <span begin="02:29.706" end="02:29.946">And </span>
+                <span begin="02:29.946" end="02:30.218">if </span>
+                <span begin="02:30.218" end="02:31.034">it's </span>
+                <span begin="02:31.258" end="02:32.490">true</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">如果这是真的</span>
+            </p>
+            <p begin="02:33.266" end="02:38.706" ttm:agent="v1" itunes:key="L11">
+                <span begin="02:33.266" end="02:33.474">I </span>
+                <span begin="02:33.474" end="02:33.730">will </span>
+                <span begin="02:33.730" end="02:34.754">surround </span>
+                <span begin="02:34.986" end="02:35.874">you </span>
+                <span begin="02:36.466" end="02:36.650">and </span>
+                <span begin="02:36.650" end="02:36.858">give </span>
+                <span begin="02:36.858" end="02:37.138">life </span>
+                <span begin="02:37.138" end="02:37.466">to </span>
+                <span begin="02:37.466" end="02:37.762">a </span>
+                <span begin="02:37.762" end="02:38.706">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会围绕着你让这世界焕发生机</span>
+            </p>
+            <p begin="02:40.810" end="02:42.897" ttm:agent="v1" itunes:key="L12">
+                <span begin="02:40.810" end="02:41.234">That's </span>
+                <span begin="02:41.234" end="02:41.562">our </span>
+                <span begin="02:41.562" end="02:42.897">own</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">那是属于我们的</span>
+            </p>
+            <p begin="03:15.620" end="03:21.235" ttm:agent="v1" itunes:key="L13">
+                <span begin="03:15.620" end="03:16.131">Thank </span>
+                <span begin="03:16.131" end="03:17.427">you </span>
+                <span begin="03:18.123" end="03:18.443">I'll </span>
+                <span begin="03:18.443" end="03:18.739">say </span>
+                <span begin="03:18.739" end="03:19.819">goodbye </span>
+                <span begin="03:20.107" end="03:21.235">now</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">谢谢你我要说再见了</span>
+            </p>
+        </div>
+        <div begin="03:15.620" end="03:41.320">
+            <p begin="03:21.947" end="03:24.603" ttm:agent="v1" itunes:key="L14">
+                <span begin="03:21.947" end="03:22.187">Though </span>
+                <span begin="03:22.187" end="03:22.467">it's </span>
+                <span begin="03:22.467" end="03:22.755">the </span>
+                <span begin="03:22.755" end="03:23.179">end </span>
+                <span begin="03:23.307" end="03:23.467">of </span>
+                <span begin="03:23.467" end="03:23.691">the </span>
+                <span begin="03:23.691" end="03:24.603">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然这是世界末日</span>
+            </p>
+            <p begin="03:25.659" end="03:29.562" ttm:agent="v1" itunes:key="L15">
+                <span begin="03:25.659" end="03:25.907">Don't </span>
+                <span begin="03:25.907" end="03:26.171">blame </span>
+                <span begin="03:26.299" end="03:27.914">yourself </span>
+                <span begin="03:28.523" end="03:29.562">now</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">现在不要责备你自己</span>
+            </p>
+            <p begin="03:30.083" end="03:32.546" ttm:agent="v1" itunes:key="L16">
+                <span begin="03:30.083" end="03:30.250">And </span>
+                <span begin="03:30.250" end="03:30.442">if </span>
+                <span begin="03:30.442" end="03:31.098">it's </span>
+                <span begin="03:31.314" end="03:32.546">true</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">如果这是真的</span>
+            </p>
+            <p begin="03:33.258" end="03:41.320" ttm:agent="v1" itunes:key="L17">
+                <span begin="03:33.258" end="03:33.474">I </span>
+                <span begin="03:33.474" end="03:33.730">will </span>
+                <span begin="03:33.730" end="03:34.906">surround </span>
+                <span begin="03:35.138" end="03:36.082">you </span>
+                <span begin="03:36.938" end="03:37.154">and </span>
+                <span begin="03:37.154" end="03:37.178">give </span>
+                <span begin="03:37.178" end="03:37.347">life </span>
+                <span begin="03:37.347" end="03:37.531">to </span>
+                <span begin="03:37.531" end="03:37.827">a </span>
+                <span begin="03:37.827" end="03:41.320">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会围绕着你让这世界焕发生机</span>
+            </p>
+            <p begin="04:30.426" end="04:36.282" ttm:agent="v1" itunes:key="L18">
+                <span begin="04:30.426" end="04:31.098">Thank </span>
+                <span begin="04:31.266" end="04:32.682">you </span>
+                <span begin="04:33.138" end="04:33.506">I'll </span>
+                <span begin="04:33.506" end="04:33.810">say </span>
+                <span begin="04:33.810" end="04:34.802">goodbye </span>
+                <span begin="04:35.002" end="04:36.282">now</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">谢谢你我要说再见了</span>
+            </p>
+        </div>
+        <div begin="04:30.426" end="04:58.019">
+            <p begin="04:36.874" end="04:39.466" ttm:agent="v1" itunes:key="L19">
+                <span begin="04:36.874" end="04:37.146">Though </span>
+                <span begin="04:37.146" end="04:37.474">it's </span>
+                <span begin="04:37.474" end="04:37.770">the </span>
+                <span begin="04:37.770" end="04:38.170">end </span>
+                <span begin="04:38.314" end="04:38.482">of </span>
+                <span begin="04:38.482" end="04:38.698">the </span>
+                <span begin="04:38.698" end="04:39.466">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然这是世界末日</span>
+            </p>
+            <p begin="04:40.666" end="04:42.586" ttm:agent="v1" itunes:key="L20">
+                <span begin="04:40.666" end="04:41.002">Don't </span>
+                <span begin="04:41.002" end="04:41.258">blame </span>
+                <span begin="04:41.258" end="04:42.586">yourself</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">不要责怪你自己</span>
+            </p>
+            <p begin="04:44.849" end="04:47.450" ttm:agent="v1" itunes:key="L21">
+                <span begin="04:44.849" end="04:45.042">And </span>
+                <span begin="04:45.042" end="04:45.266">if </span>
+                <span begin="04:45.266" end="04:46.058">it's </span>
+                <span begin="04:46.274" end="04:47.450">true</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">如果这是真的</span>
+            </p>
+            <p begin="04:48.186" end="04:54.236" ttm:agent="v1" itunes:key="L22">
+                <span begin="04:48.186" end="04:48.418">I </span>
+                <span begin="04:48.418" end="04:48.674">will </span>
+                <span begin="04:48.674" end="04:49.874">surround </span>
+                <span begin="04:50.098" end="04:50.874">you </span>
+                <span begin="04:51.450" end="04:51.626">and </span>
+                <span begin="04:51.626" end="04:51.858">give </span>
+                <span begin="04:51.858" end="04:52.130">life </span>
+                <span begin="04:52.130" end="04:52.386">to </span>
+                <span begin="04:52.386" end="04:52.706">a </span>
+                <span begin="04:52.706" end="04:54.236">world</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会围绕着你让这世界焕发生机</span>
+            </p>
+            <p begin="04:55.860" end="04:58.019" ttm:agent="v1" itunes:key="L23">
+                <span begin="04:55.860" end="04:56.235">That's </span>
+                <span begin="04:56.235" end="04:56.515">our </span>
+                <span begin="04:56.515" end="04:58.019">own</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">那是属于我们的</span>
+            </p>
+        </div>
+    </body>
+</tt>

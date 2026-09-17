@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="04:26.529">
+        <div begin="00:00.462" end="00:03.966">
+            <p begin="00:00.462" end="00:02.166" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:00.462" end="00:00.718">Is </span>
+                <span begin="00:00.718" end="00:01.215">anyone </span>
+                <span begin="00:01.406" end="00:02.166">there</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">有人吗</span>
+            </p>
+            <p begin="00:03.590" end="00:03.966" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:03.590" end="00:03.742">Oh </span>
+                <span begin="00:03.742" end="00:03.966">hi</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">嗨</span>
+            </p>
+            <p begin="00:47.538" end="00:52.115" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:47.538" end="00:47.971">Who </span>
+                <span begin="00:47.971" end="00:49.427">survived </span>
+                <span begin="00:49.946" end="00:50.730">somebody </span>
+                <span begin="00:50.962" end="00:52.115">new</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">谁熬过了另一个人</span>
+            </p>
+        </div>
+        <div begin="00:47.538" end="01:53.993">
+            <p begin="00:52.882" end="00:56.938" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:52.882" end="00:53.537">Anyone </span>
+                <span begin="00:53.778" end="00:54.265">else </span>
+                <span begin="00:54.898" end="00:55.098">but </span>
+                <span begin="00:55.098" end="00:56.938">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">除了你任何人</span>
+            </p>
+            <p begin="00:57.634" end="01:03.218" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:57.634" end="00:57.849">On </span>
+                <span begin="00:57.849" end="00:58.090">a </span>
+                <span begin="00:58.090" end="00:58.986">lonely </span>
+                <span begin="00:59.210" end="01:00.137">night </span>
+                <span begin="01:00.658" end="01:00.834">was </span>
+                <span begin="01:00.834" end="01:00.970">a </span>
+                <span begin="01:00.970" end="01:01.578">blinding </span>
+                <span begin="01:01.834" end="01:03.218">light</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">孤独的夜晚一束耀眼的光芒</span>
+            </p>
+            <p begin="01:04.034" end="01:08.354" ttm:agent="v1" itunes:key="L6">
+                <span begin="01:04.034" end="01:04.228">A </span>
+                <span begin="01:04.228" end="01:04.610">hundred </span>
+                <span begin="01:04.826" end="01:05.394">leaders </span>
+                <span begin="01:05.634" end="01:05.865">would </span>
+                <span begin="01:05.865" end="01:06.043">be </span>
+                <span begin="01:06.242" end="01:06.803">borne </span>
+                <span begin="01:07.010" end="01:07.242">of </span>
+                <span begin="01:07.242" end="01:08.354">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">一百个领袖将为你树立</span>
+            </p>
+            <p begin="01:08.530" end="01:13.307" ttm:agent="v1" itunes:key="L7">
+                <span begin="01:08.530" end="01:08.690">And </span>
+                <span begin="01:08.690" end="01:08.954">though </span>
+                <span begin="01:08.954" end="01:09.028">I </span>
+                <span begin="01:09.028" end="01:09.684">know </span>
+                <span begin="01:10.644" end="01:10.909">since </span>
+                <span begin="01:10.909" end="01:11.108">you've </span>
+                <span begin="01:11.334" end="01:12.293">awakened </span>
+                <span begin="01:12.484" end="01:12.716">her </span>
+                <span begin="01:12.716" end="01:13.307">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然我知道自从你再次唤醒她</span>
+            </p>
+            <p begin="01:13.509" end="01:18.781" ttm:agent="v1" itunes:key="L8">
+                <span begin="01:13.509" end="01:13.925">She </span>
+                <span begin="01:13.925" end="01:14.980">depends </span>
+                <span begin="01:15.204" end="01:15.444">on </span>
+                <span begin="01:15.444" end="01:16.085">you </span>
+                <span begin="01:16.388" end="01:16.684">she </span>
+                <span begin="01:16.684" end="01:17.541">depends </span>
+                <span begin="01:17.748" end="01:18.181">on </span>
+                <span begin="01:18.421" end="01:18.781">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她依靠着你她依赖着你</span>
+            </p>
+            <p begin="01:18.948" end="01:24.132" ttm:agent="v1" itunes:key="L9">
+                <span begin="01:18.948" end="01:19.165">She'll </span>
+                <span begin="01:19.165" end="01:19.436">go </span>
+                <span begin="01:19.436" end="01:20.268">alone </span>
+                <span begin="01:21.636" end="01:21.852">and </span>
+                <span begin="01:21.852" end="01:22.228">never </span>
+                <span begin="01:22.460" end="01:22.733">speak </span>
+                <span begin="01:23.005" end="01:23.221">of </span>
+                <span begin="01:23.221" end="01:23.396">this </span>
+                <span begin="01:23.588" end="01:24.132">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她会一个人走再也不会提起这件事</span>
+            </p>
+            <p begin="01:24.451" end="01:29.691" ttm:agent="v1" itunes:key="L10">
+                <span begin="01:24.451" end="01:24.708">We </span>
+                <span begin="01:24.708" end="01:25.667">depend </span>
+                <span begin="01:25.932" end="01:26.301">on </span>
+                <span begin="01:26.532" end="01:26.909">you </span>
+                <span begin="01:27.157" end="01:27.349">we </span>
+                <span begin="01:27.566" end="01:28.341">depend </span>
+                <span begin="01:28.572" end="01:28.942">on </span>
+                <span begin="01:29.188" end="01:29.691">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我们依靠着你我们依赖着你</span>
+            </p>
+            <p begin="01:29.956" end="01:34.949" ttm:agent="v1" itunes:key="L11">
+                <span begin="01:29.956" end="01:30.132">And </span>
+                <span begin="01:30.132" end="01:30.364">though </span>
+                <span begin="01:30.364" end="01:30.589">I </span>
+                <span begin="01:30.748" end="01:30.957">know </span>
+                <span begin="01:32.300" end="01:32.485">since </span>
+                <span begin="01:32.660" end="01:32.853">you've </span>
+                <span begin="01:33.068" end="01:33.820">awakened </span>
+                <span begin="01:34.036" end="01:34.237">her </span>
+                <span begin="01:34.436" end="01:34.949">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然我知道自从你再次唤醒她</span>
+            </p>
+            <p begin="01:35.196" end="01:40.500" ttm:agent="v1" itunes:key="L12">
+                <span begin="01:35.196" end="01:35.614">She </span>
+                <span begin="01:35.614" end="01:36.612">depends </span>
+                <span begin="01:36.820" end="01:37.036">on </span>
+                <span begin="01:37.293" end="01:37.796">you </span>
+                <span begin="01:38.060" end="01:38.277">she </span>
+                <span begin="01:38.494" end="01:39.092">depends </span>
+                <span begin="01:39.332" end="01:39.812">on </span>
+                <span begin="01:40.044" end="01:40.500">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她依靠着你她依赖着你</span>
+            </p>
+            <p begin="01:40.709" end="01:45.804" ttm:agent="v1" itunes:key="L13">
+                <span begin="01:40.709" end="01:40.916">She'll </span>
+                <span begin="01:40.916" end="01:41.117">go </span>
+                <span begin="01:41.307" end="01:41.916">alone </span>
+                <span begin="01:43.260" end="01:43.483">and </span>
+                <span begin="01:43.483" end="01:43.909">never </span>
+                <span begin="01:44.164" end="01:44.412">speak </span>
+                <span begin="01:44.628" end="01:44.860">of </span>
+                <span begin="01:44.860" end="01:45.068">this </span>
+                <span begin="01:45.251" end="01:45.804">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她会一个人走再也不会提起这件事</span>
+            </p>
+            <p begin="01:45.995" end="01:51.125" ttm:agent="v1" itunes:key="L14">
+                <span begin="01:45.995" end="01:46.404">We </span>
+                <span begin="01:46.404" end="01:47.284">depend </span>
+                <span begin="01:47.508" end="01:47.949">on </span>
+                <span begin="01:48.212" end="01:48.589">you </span>
+                <span begin="01:48.917" end="01:49.109">we </span>
+                <span begin="01:49.300" end="01:51.125">depend</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我们依靠你我们依靠着你</span>
+            </p>
+            <p begin="01:51.723" end="01:53.993" ttm:agent="v1" itunes:key="L15">
+                <span begin="01:51.723" end="01:52.361">On </span>
+                <span begin="01:52.361" end="01:53.993">you</span>
+            </p>
+            <p begin="02:34.925" end="02:39.492" ttm:agent="v1" itunes:key="L16">
+                <span begin="02:34.925" end="02:35.069">I </span>
+                <span begin="02:35.069" end="02:35.301">don't </span>
+                <span begin="02:35.301" end="02:35.535">know </span>
+                <span begin="02:35.733" end="02:36.046">much </span>
+                <span begin="02:36.197" end="02:36.405">about </span>
+                <span begin="02:36.405" end="02:36.758">your </span>
+                <span begin="02:36.893" end="02:37.309">life </span>
+                <span begin="02:37.550" end="02:37.839">beyond </span>
+                <span begin="02:37.997" end="02:38.253">these </span>
+                <span begin="02:38.253" end="02:39.492">walls</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我对高墙之外你的生活知之甚少</span>
+            </p>
+        </div>
+        <div begin="02:34.925" end="02:57.143">
+            <p begin="02:40.797" end="02:45.669" ttm:agent="v1" itunes:key="L17">
+                <span begin="02:40.797" end="02:40.964">The </span>
+                <span begin="02:40.964" end="02:41.445">fleeting </span>
+                <span begin="02:41.653" end="02:41.877">sense </span>
+                <span begin="02:42.029" end="02:42.277">of </span>
+                <span begin="02:42.277" end="02:42.605">love </span>
+                <span begin="02:42.798" end="02:43.126">within </span>
+                <span begin="02:43.309" end="02:43.502">these </span>
+                <span begin="02:43.685" end="02:44.069">God-</span>
+                <span begin="02:44.253" end="02:44.837">forsaken </span>
+                <span begin="02:45.029" end="02:45.669">halls</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在这被上帝遗弃的殿堂里转瞬即逝的爱的感觉</span>
+            </p>
+            <p begin="02:45.869" end="02:50.245" ttm:agent="v1" itunes:key="L18">
+                <span begin="02:45.869" end="02:46.013">And </span>
+                <span begin="02:46.013" end="02:46.221">I </span>
+                <span begin="02:46.221" end="02:46.470">can </span>
+                <span begin="02:46.470" end="02:46.781">hear </span>
+                <span begin="02:46.933" end="02:47.149">it </span>
+                <span begin="02:47.301" end="02:47.461">in </span>
+                <span begin="02:47.461" end="02:47.685">his </span>
+                <span begin="02:47.845" end="02:48.141">voice </span>
+                <span begin="02:48.301" end="02:48.453">in </span>
+                <span begin="02:48.572" end="02:48.901">every </span>
+                <span begin="02:49.061" end="02:50.245">call</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我从他的每一通电话里都能听出来</span>
+            </p>
+            <p begin="02:51.277" end="02:57.143" ttm:agent="v1" itunes:key="L19">
+                <span begin="02:51.277" end="02:51.805">This </span>
+                <span begin="02:51.805" end="02:52.052">girl </span>
+                <span begin="02:52.309" end="02:52.517">who's </span>
+                <span begin="02:52.517" end="02:52.718">slept </span>
+                <span begin="02:52.893" end="02:53.093">a </span>
+                <span begin="02:53.093" end="02:53.693">hundred </span>
+                <span begin="02:53.917" end="02:54.093">years </span>
+                <span begin="02:54.285" end="02:54.453">has </span>
+                <span begin="02:54.597" end="02:55.038">something </span>
+                <span begin="02:55.261" end="02:55.621">after </span>
+                <span begin="02:55.821" end="02:57.143">all</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">这个沉睡了一百年的女孩终究拥有一点东西</span>
+            </p>
+            <p begin="03:18.403" end="03:23.432" ttm:agent="v1" itunes:key="L20">
+                <span begin="03:18.403" end="03:18.563">And </span>
+                <span begin="03:18.563" end="03:19.042">though </span>
+                <span begin="03:19.042" end="03:19.211">I </span>
+                <span begin="03:19.211" end="03:19.760">know </span>
+                <span begin="03:20.791" end="03:20.960">since </span>
+                <span begin="03:21.151" end="03:21.344">you've </span>
+                <span begin="03:21.536" end="03:22.280">awakened </span>
+                <span begin="03:22.521" end="03:22.688">her </span>
+                <span begin="03:22.904" end="03:23.432">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然我知道自从你再次唤醒她</span>
+            </p>
+        </div>
+        <div begin="03:18.403" end="04:26.529">
+            <p begin="03:23.721" end="03:28.936" ttm:agent="v1" itunes:key="L21">
+                <span begin="03:23.721" end="03:24.008">She </span>
+                <span begin="03:24.184" end="03:24.721">depends </span>
+                <span begin="03:25.192" end="03:25.392">on </span>
+                <span begin="03:25.696" end="03:26.200">you </span>
+                <span begin="03:26.488" end="03:26.688">she </span>
+                <span begin="03:26.912" end="03:27.656">depends </span>
+                <span begin="03:27.889" end="03:28.272">on </span>
+                <span begin="03:28.520" end="03:28.936">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她依靠着你她依赖着你</span>
+            </p>
+            <p begin="03:29.168" end="03:34.232" ttm:agent="v1" itunes:key="L22">
+                <span begin="03:29.168" end="03:29.343">I'll </span>
+                <span begin="03:29.343" end="03:29.544">go </span>
+                <span begin="03:29.712" end="03:30.960">alone </span>
+                <span begin="03:31.784" end="03:32.024">and </span>
+                <span begin="03:32.024" end="03:32.391">never </span>
+                <span begin="03:32.632" end="03:32.952">speak </span>
+                <span begin="03:33.144" end="03:33.344">of </span>
+                <span begin="03:33.344" end="03:33.527">you </span>
+                <span begin="03:33.711" end="03:34.232">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会一个人走再也不提起你</span>
+            </p>
+            <p begin="03:34.616" end="03:39.936" ttm:agent="v1" itunes:key="L23">
+                <span begin="03:34.616" end="03:34.832">We </span>
+                <span begin="03:35.048" end="03:35.696">depend </span>
+                <span begin="03:35.952" end="03:36.424">on </span>
+                <span begin="03:36.655" end="03:37.192">you </span>
+                <span begin="03:37.480" end="03:37.674">we </span>
+                <span begin="03:37.896" end="03:38.400">depend </span>
+                <span begin="03:38.672" end="03:38.943">on </span>
+                <span begin="03:39.160" end="03:39.936">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我们依靠着你我们依赖着你</span>
+            </p>
+            <p begin="03:40.168" end="03:45.192" ttm:agent="v1" itunes:key="L24">
+                <span begin="03:40.168" end="03:40.327">And </span>
+                <span begin="03:40.327" end="03:40.528">though </span>
+                <span begin="03:40.528" end="03:40.728">I </span>
+                <span begin="03:40.880" end="03:41.224">know </span>
+                <span begin="03:42.472" end="03:42.711">since </span>
+                <span begin="03:42.872" end="03:43.064">you've </span>
+                <span begin="03:43.232" end="03:44.096">awakened </span>
+                <span begin="03:44.287" end="03:44.480">her </span>
+                <span begin="03:44.647" end="03:45.192">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然我知道自从你再次唤醒她</span>
+            </p>
+            <p begin="03:45.440" end="03:50.711" ttm:agent="v1" itunes:key="L25">
+                <span begin="03:45.440" end="03:45.791">She </span>
+                <span begin="03:45.967" end="03:46.689">depends </span>
+                <span begin="03:46.913" end="03:47.248">on </span>
+                <span begin="03:47.489" end="03:47.871">you </span>
+                <span begin="03:48.185" end="03:48.440">she </span>
+                <span begin="03:48.656" end="03:49.408">depends </span>
+                <span begin="03:49.640" end="03:49.984">on </span>
+                <span begin="03:50.224" end="03:50.711">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她依靠着你她依赖着你</span>
+            </p>
+            <p begin="03:50.920" end="03:56.031" ttm:agent="v1" itunes:key="L26">
+                <span begin="03:50.920" end="03:51.095">She'll </span>
+                <span begin="03:51.095" end="03:51.352">go </span>
+                <span begin="03:51.352" end="03:52.136">alone </span>
+                <span begin="03:53.552" end="03:53.815">and </span>
+                <span begin="03:53.815" end="03:54.095">never </span>
+                <span begin="03:54.400" end="03:54.600">speak </span>
+                <span begin="03:54.808" end="03:55.048">of </span>
+                <span begin="03:55.048" end="03:55.255">this </span>
+                <span begin="03:55.432" end="03:56.031">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她会一个人走再也不会提起这件事</span>
+            </p>
+            <p begin="03:56.321" end="04:01.616" ttm:agent="v1" itunes:key="L27">
+                <span begin="03:56.321" end="03:56.601">We </span>
+                <span begin="03:56.824" end="03:57.457">depend </span>
+                <span begin="03:57.721" end="03:58.072">on </span>
+                <span begin="03:58.321" end="03:58.672">you </span>
+                <span begin="03:59.008" end="03:59.240">we </span>
+                <span begin="03:59.464" end="04:00.160">depend </span>
+                <span begin="04:00.384" end="04:00.768">on </span>
+                <span begin="04:01.008" end="04:01.616">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我们依靠着你我们依赖着你</span>
+            </p>
+            <p begin="04:01.847" end="04:06.832" ttm:agent="v1" itunes:key="L28">
+                <span begin="04:01.847" end="04:02.056">And </span>
+                <span begin="04:02.056" end="04:02.353">though </span>
+                <span begin="04:02.353" end="04:02.584">I </span>
+                <span begin="04:02.584" end="04:02.992">know </span>
+                <span begin="04:04.248" end="04:04.487">since </span>
+                <span begin="04:04.487" end="04:04.696">you've </span>
+                <span begin="04:04.896" end="04:05.712">awakened </span>
+                <span begin="04:05.904" end="04:06.096">her </span>
+                <span begin="04:06.280" end="04:06.832">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">虽然我知道自从你再次唤醒她</span>
+            </p>
+            <p begin="04:07.080" end="04:12.345" ttm:agent="v1" itunes:key="L29">
+                <span begin="04:07.080" end="04:07.391">She </span>
+                <span begin="04:07.600" end="04:08.328">depends </span>
+                <span begin="04:08.575" end="04:08.951">on </span>
+                <span begin="04:09.200" end="04:09.543">you </span>
+                <span begin="04:09.847" end="04:10.047">she </span>
+                <span begin="04:10.272" end="04:11.023">depends </span>
+                <span begin="04:11.240" end="04:11.608">on </span>
+                <span begin="04:11.824" end="04:12.345">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她依靠着你她依赖着你</span>
+            </p>
+            <p begin="04:12.536" end="04:17.736" ttm:agent="v1" itunes:key="L30">
+                <span begin="04:12.536" end="04:12.744">She'll </span>
+                <span begin="04:12.744" end="04:13.031">go </span>
+                <span begin="04:13.031" end="04:13.904">alone </span>
+                <span begin="04:14.935" end="04:15.224">and </span>
+                <span begin="04:15.376" end="04:15.752">never </span>
+                <span begin="04:15.968" end="04:16.184">speak </span>
+                <span begin="04:16.416" end="04:16.664">of </span>
+                <span begin="04:16.664" end="04:16.881">this </span>
+                <span begin="04:17.096" end="04:17.736">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">她会一个人走再也不会提起这件事</span>
+            </p>
+            <p begin="04:17.991" end="04:22.472" ttm:agent="v1" itunes:key="L31">
+                <span begin="04:17.991" end="04:18.207">We </span>
+                <span begin="04:18.416" end="04:19.127">depend </span>
+                <span begin="04:19.415" end="04:19.800">on </span>
+                <span begin="04:20.055" end="04:20.424">you </span>
+                <span begin="04:20.792" end="04:20.992">we </span>
+                <span begin="04:21.207" end="04:22.472">depend</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我们依靠你我们依靠着你</span>
+            </p>
+            <p begin="04:23.585" end="04:26.529" ttm:agent="v1" itunes:key="L32">
+                <span begin="04:23.585" end="04:24.145">On </span>
+                <span begin="04:24.145" end="04:26.529">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在你身上</span>
+            </p>
+        </div>
+    </body>
+</tt>

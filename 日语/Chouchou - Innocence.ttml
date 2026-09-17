@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="06:57.065">
+        <div begin="00:44.761" end="04:36.848">
+            <p begin="00:44.761" end="00:51.221" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:44.761" end="00:46.171">裂</span>
+                <span begin="00:46.171" end="00:46.341">け</span>
+                <span begin="00:46.341" end="00:48.031">た</span>
+                <span begin="00:48.031" end="00:49.161">心</span>
+                <span begin="00:49.161" end="00:49.761">の</span>
+                <span begin="00:49.761" end="00:50.071">音</span>
+                <span begin="00:50.071" end="00:51.221">を</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">心碎的声音和痛苦</span>
+            </p>
+            <p begin="00:51.881" end="01:00.261" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:51.881" end="00:53.481">痛</span>
+                <span begin="00:53.481" end="00:53.701">み</span>
+                <span begin="00:53.701" end="00:55.521">を</span>
+                <span begin="00:55.521" end="00:55.661">ど</span>
+                <span begin="00:55.661" end="00:56.301">こ</span>
+                <span begin="00:56.301" end="00:56.471">か</span>
+                <span begin="00:56.471" end="00:57.221">へ</span>
+                <span begin="00:57.221" end="00:57.391">捨</span>
+                <span begin="00:57.391" end="00:58.191">て</span>
+                <span begin="00:58.191" end="00:58.381">て</span>
+                <span begin="00:58.381" end="00:59.081">き</span>
+                <span begin="00:59.081" end="00:59.501">た</span>
+                <span begin="00:59.501" end="01:00.261">の</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">被丢弃到哪里去了呢</span>
+            </p>
+            <p begin="01:00.891" end="01:09.551" ttm:agent="v1" itunes:key="L3">
+                <span begin="01:00.891" end="01:01.061">た</span>
+                <span begin="01:01.061" end="01:02.681">だ</span>
+                <span begin="01:02.681" end="01:03.611">声</span>
+                <span begin="01:03.611" end="01:04.041">が</span>
+                <span begin="01:04.041" end="01:04.461">し</span>
+                <span begin="01:04.461" end="01:04.981">た</span>
+                <span begin="01:04.981" end="01:05.431">こ</span>
+                <span begin="01:05.431" end="01:05.861">ち</span>
+                <span begin="01:05.861" end="01:06.331">ら</span>
+                <span begin="01:06.331" end="01:08.301">側</span>
+                <span begin="01:08.301" end="01:08.671">へ</span>
+                <span begin="01:08.671" end="01:09.551">と</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">只是向着发出声响的这一边</span>
+            </p>
+            <p begin="01:10.191" end="01:16.841" ttm:agent="v1" itunes:key="L4">
+                <span begin="01:10.191" end="01:10.481">駆</span>
+                <span begin="01:10.481" end="01:10.911">け</span>
+                <span begin="01:10.911" end="01:11.841">足</span>
+                <span begin="01:11.841" end="01:12.331">で</span>
+                <span begin="01:12.331" end="01:12.701">逃</span>
+                <span begin="01:12.701" end="01:13.201">げ</span>
+                <span begin="01:13.201" end="01:13.671">て</span>
+                <span begin="01:13.671" end="01:14.171">き</span>
+                <span begin="01:14.171" end="01:15.721">た</span>
+                <span begin="01:15.721" end="01:15.891">だ</span>
+                <span begin="01:15.891" end="01:16.841">け</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">飞奔着逃了过来</span>
+            </p>
+            <p begin="01:17.451" end="01:20.891" ttm:agent="v1" itunes:key="L5">
+                <span begin="01:17.451" end="01:18.421">幾</span>
+                <span begin="01:18.421" end="01:18.981">年</span>
+                <span begin="01:18.981" end="01:19.531">月</span>
+                <span begin="01:19.531" end="01:20.891">も</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">天空看着</span>
+            </p>
+            <p begin="01:21.291" end="01:29.941" ttm:agent="v1" itunes:key="L6">
+                <span begin="01:21.291" end="01:21.521">奇</span>
+                <span begin="01:21.521" end="01:23.181">跡</span>
+                <span begin="01:23.181" end="01:24.811">を</span>
+                <span begin="01:24.811" end="01:25.011">待</span>
+                <span begin="01:25.011" end="01:25.771">ち</span>
+                <span begin="01:25.771" end="01:26.571">続</span>
+                <span begin="01:26.571" end="01:26.841">け</span>
+                <span begin="01:26.841" end="01:27.731">た</span>
+                <span begin="01:27.731" end="01:28.791">私</span>
+                <span begin="01:28.791" end="01:29.941">を</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">等待奇迹等了不知多少年月的我</span>
+            </p>
+            <p begin="01:30.511" end="01:36.301" ttm:agent="v1" itunes:key="L7">
+                <span begin="01:30.511" end="01:30.641">見</span>
+                <span begin="01:30.641" end="01:32.351">て</span>
+                <span begin="01:32.351" end="01:33.181">空</span>
+                <span begin="01:33.181" end="01:33.391">が</span>
+                <span begin="01:33.391" end="01:33.971">裂</span>
+                <span begin="01:33.971" end="01:34.451">け</span>
+                <span begin="01:34.451" end="01:34.921">る</span>
+                <span begin="01:34.921" end="01:35.851">程</span>
+                <span begin="01:35.851" end="01:36.301">の</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">发出了撕裂一切般的</span>
+            </p>
+            <p begin="01:36.301" end="01:46.311" ttm:agent="v1" itunes:key="L8">
+                <span begin="01:36.301" end="01:37.741">大</span>
+                <span begin="01:37.741" end="01:37.971">き</span>
+                <span begin="01:37.971" end="01:39.621">な</span>
+                <span begin="01:39.621" end="01:40.471">大</span>
+                <span begin="01:40.471" end="01:40.641">き</span>
+                <span begin="01:40.641" end="01:41.541">な</span>
+                <span begin="01:41.541" end="01:42.341">笑</span>
+                <span begin="01:42.341" end="01:42.861">い</span>
+                <span begin="01:42.861" end="01:43.771">声</span>
+                <span begin="01:43.771" end="01:45.311">で</span>
+                <span begin="01:45.311" end="01:45.931">笑</span>
+                <span begin="01:45.931" end="01:46.311">う</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">非常响亮的嘲笑声</span>
+            </p>
+            <p begin="01:47.031" end="01:53.891" ttm:agent="v1" itunes:key="L9">
+                <span begin="01:47.031" end="01:47.181">あ</span>
+                <span begin="01:47.181" end="01:48.031">の</span>
+                <span begin="01:48.031" end="01:49.131">醜</span>
+                <span begin="01:49.131" end="01:49.791">く</span>
+                <span begin="01:49.791" end="01:51.101">汚</span>
+                <span begin="01:51.101" end="01:51.231">い</span>
+                <span begin="01:51.231" end="01:52.621">悪</span>
+                <span begin="01:52.621" end="01:52.771">魔</span>
+                <span begin="01:52.771" end="01:53.891">は</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">那个丑陋肮脏的恶魔</span>
+            </p>
+            <p begin="01:54.331" end="01:59.261" ttm:agent="v1" itunes:key="L10">
+                <span begin="01:54.331" end="01:55.311">私</span>
+                <span begin="01:55.311" end="01:55.721">の</span>
+                <span begin="01:55.721" end="01:57.211">涙</span>
+                <span begin="01:57.211" end="01:57.361">を</span>
+                <span begin="01:57.361" end="01:58.341">数</span>
+                <span begin="01:58.341" end="01:59.261">え</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">数着我的泪水</span>
+            </p>
+            <p begin="01:59.791" end="02:06.040" ttm:agent="v1" itunes:key="L11">
+                <span begin="01:59.791" end="01:59.941">「</span>
+                <span begin="01:59.941" end="02:00.101">ど</span>
+                <span begin="02:00.101" end="02:00.461">う</span>
+                <span begin="02:00.461" end="02:01.840">だ</span>
+                <span begin="02:01.840" end="02:01.990">も</span>
+                <span begin="02:01.990" end="02:02.360">う</span>
+                <span begin="02:02.360" end="02:03.120">俺</span>
+                <span begin="02:03.120" end="02:03.640">に</span>
+                <span begin="02:03.640" end="02:04.040">売</span>
+                <span begin="02:04.040" end="02:04.480">ら</span>
+                <span begin="02:04.480" end="02:04.910">な</span>
+                <span begin="02:04.910" end="02:05.400">い</span>
+                <span begin="02:05.400" end="02:05.820">か</span>
+                <span begin="02:05.820" end="02:06.040">」</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">问我</span>
+            </p>
+            <p begin="02:06.200" end="02:08.920" ttm:agent="v1" itunes:key="L12">
+                <span begin="02:06.200" end="02:06.510">と</span>
+                <span begin="02:06.510" end="02:06.850">聞</span>
+                <span begin="02:06.850" end="02:07.210">い</span>
+                <span begin="02:07.210" end="02:07.650">た</span>
+                <span begin="02:07.650" end="02:08.920">の</span>
+            </p>
+            <p begin="02:13.240" end="02:21.680" ttm:agent="v1" itunes:key="L13">
+                <span begin="02:13.240" end="02:14.580">一</span>
+                <span begin="02:14.580" end="02:14.810">粒</span>
+                <span begin="02:14.810" end="02:15.760">も</span>
+                <span begin="02:15.760" end="02:16.470">残</span>
+                <span begin="02:16.470" end="02:16.680">さ</span>
+                <span begin="02:16.680" end="02:17.440">ず</span>
+                <span begin="02:17.440" end="02:18.340">全</span>
+                <span begin="02:18.340" end="02:18.980">て</span>
+                <span begin="02:18.980" end="02:19.490">捨</span>
+                <span begin="02:19.490" end="02:19.640">て</span>
+                <span begin="02:19.640" end="02:20.170">る</span>
+                <span begin="02:20.170" end="02:20.590">ま</span>
+                <span begin="02:20.590" end="02:21.680">で</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">直到一点也不剩地丢弃一切</span>
+            </p>
+            <p begin="02:22.040" end="02:27.360" ttm:agent="v1" itunes:key="L14">
+                <span begin="02:22.040" end="02:22.260">ど</span>
+                <span begin="02:22.260" end="02:23.060">れ</span>
+                <span begin="02:23.060" end="02:23.190">く</span>
+                <span begin="02:23.190" end="02:23.790">ら</span>
+                <span begin="02:23.790" end="02:23.940">い</span>
+                <span begin="02:23.940" end="02:24.100">た</span>
+                <span begin="02:24.100" end="02:24.990">め</span>
+                <span begin="02:24.990" end="02:25.150">ら</span>
+                <span begin="02:25.150" end="02:25.610">え</span>
+                <span begin="02:25.610" end="02:26.010">る</span>
+                <span begin="02:26.010" end="02:26.620">の</span>
+                <span begin="02:26.620" end="02:26.750">だ</span>
+                <span begin="02:26.750" end="02:27.010">ろ</span>
+                <span begin="02:27.010" end="02:27.360">う</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我积攒了多少珍贵的事物呢</span>
+            </p>
+            <p begin="02:27.560" end="02:36.488" ttm:agent="v1" itunes:key="L15">
+                <span begin="02:27.560" end="02:27.780">キ</span>
+                <span begin="02:27.780" end="02:29.380">ラ</span>
+                <span begin="02:29.380" end="02:29.590">キ</span>
+                <span begin="02:29.590" end="02:30.380">ラ</span>
+                <span begin="02:30.380" end="02:30.580">と</span>
+                <span begin="02:30.580" end="02:31.030">光</span>
+                <span begin="02:31.030" end="02:31.640">る</span>
+                <span begin="02:31.640" end="02:32.179">あ</span>
+                <span begin="02:32.179" end="02:32.699">の</span>
+                <span begin="02:32.699" end="02:33.079">ま</span>
+                <span begin="02:33.079" end="02:33.948">ま</span>
+                <span begin="02:33.948" end="02:34.438">の</span>
+                <span begin="02:34.438" end="02:35.398">夢</span>
+                <span begin="02:35.398" end="02:36.488">も</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">永远闪闪发光的梦想</span>
+            </p>
+            <p begin="02:36.798" end="02:45.387" ttm:agent="v1" itunes:key="L16">
+                <span begin="02:36.798" end="02:36.988">明</span>
+                <span begin="02:36.988" end="02:37.928">日</span>
+                <span begin="02:37.928" end="02:38.718">に</span>
+                <span begin="02:38.718" end="02:39.528">響</span>
+                <span begin="02:39.528" end="02:39.778">く</span>
+                <span begin="02:39.778" end="02:39.958">悲</span>
+                <span begin="02:39.958" end="02:40.478">鳴</span>
+                <span begin="02:40.478" end="02:40.758">を</span>
+                <span begin="02:40.758" end="02:41.877">塞</span>
+                <span begin="02:41.877" end="02:42.347">ぐ</span>
+                <span begin="02:42.347" end="02:42.867">ま</span>
+                <span begin="02:42.867" end="02:45.387">で</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在明天响起的悲鸣被封堵之前</span>
+            </p>
+            <p begin="02:46.147" end="02:53.656" ttm:agent="v1" itunes:key="L17">
+                <span begin="02:46.147" end="02:46.317">見</span>
+                <span begin="02:46.317" end="02:46.537">せ</span>
+                <span begin="02:46.537" end="02:49.767">な</span>
+                <span begin="02:49.767" end="02:49.877">い</span>
+                <span begin="02:49.877" end="02:50.107">で</span>
+                <span begin="02:50.107" end="02:50.266">い</span>
+                <span begin="02:50.266" end="02:53.656">て</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">绝对不会让恶魔看到的</span>
+            </p>
+            <p begin="02:57.756" end="03:03.875" ttm:agent="v1" itunes:key="L18">
+                <span begin="02:57.756" end="02:59.116">欠</span>
+                <span begin="02:59.116" end="02:59.346">け</span>
+                <span begin="02:59.346" end="03:00.996">た</span>
+                <span begin="03:00.996" end="03:01.166">不</span>
+                <span begin="03:01.166" end="03:01.956">確</span>
+                <span begin="03:01.956" end="03:02.586">か</span>
+                <span begin="03:02.586" end="03:02.816">な</span>
+                <span begin="03:02.816" end="03:03.595">日</span>
+                <span begin="03:03.595" end="03:03.875">々</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">总是缺少什么 每一天都不踏实</span>
+            </p>
+            <p begin="03:04.395" end="03:13.175" ttm:agent="v1" itunes:key="L19">
+                <span begin="03:04.395" end="03:06.495">怒</span>
+                <span begin="03:06.495" end="03:06.645">り</span>
+                <span begin="03:06.645" end="03:08.175">を</span>
+                <span begin="03:08.175" end="03:08.355">ど</span>
+                <span begin="03:08.355" end="03:09.155">こ</span>
+                <span begin="03:09.155" end="03:09.345">か</span>
+                <span begin="03:09.345" end="03:10.045">へ</span>
+                <span begin="03:10.045" end="03:10.205">捨</span>
+                <span begin="03:10.205" end="03:11.015">て</span>
+                <span begin="03:11.015" end="03:11.165">て</span>
+                <span begin="03:11.165" end="03:11.875">き</span>
+                <span begin="03:11.875" end="03:12.155">た</span>
+                <span begin="03:12.155" end="03:13.175">の</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">愤怒被丢弃到哪里去了呢</span>
+            </p>
+            <p begin="03:13.745" end="03:22.494" ttm:agent="v1" itunes:key="L20">
+                <span begin="03:13.745" end="03:14.134">た</span>
+                <span begin="03:14.134" end="03:15.694">だ</span>
+                <span begin="03:15.694" end="03:16.654">光</span>
+                <span begin="03:16.654" end="03:16.834">る</span>
+                <span begin="03:16.834" end="03:17.814">石</span>
+                <span begin="03:17.814" end="03:18.344">が</span>
+                <span begin="03:18.344" end="03:18.674">綺</span>
+                <span begin="03:18.674" end="03:19.734">麗</span>
+                <span begin="03:19.734" end="03:21.074">だ</span>
+                <span begin="03:21.074" end="03:21.584">か</span>
+                <span begin="03:21.584" end="03:22.494">ら</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">只是因为那发光的石头如此美丽</span>
+            </p>
+            <p begin="03:22.994" end="03:27.004" ttm:agent="v1" itunes:key="L21">
+                <span begin="03:22.994" end="03:23.454">手</span>
+                <span begin="03:23.454" end="03:23.904">に</span>
+                <span begin="03:23.904" end="03:24.084">取</span>
+                <span begin="03:24.084" end="03:24.754">り</span>
+                <span begin="03:24.754" end="03:25.174">た</span>
+                <span begin="03:25.174" end="03:25.584">か</span>
+                <span begin="03:25.584" end="03:25.854">っ</span>
+                <span begin="03:25.854" end="03:26.024">た</span>
+                <span begin="03:26.024" end="03:26.434">だ</span>
+                <span begin="03:26.434" end="03:27.004">け</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">想伸手触及而已</span>
+            </p>
+            <p begin="03:27.174" end="03:37.383" ttm:agent="v1" itunes:key="L22">
+                <span begin="03:27.174" end="03:28.784">光</span>
+                <span begin="03:28.784" end="03:30.304">を</span>
+                <span begin="03:30.304" end="03:30.494">希</span>
+                <span begin="03:30.494" end="03:31.584">望</span>
+                <span begin="03:31.584" end="03:32.244">を</span>
+                <span begin="03:32.244" end="03:32.424">打</span>
+                <span begin="03:32.424" end="03:33.204">ち</span>
+                <span begin="03:33.204" end="03:33.933">砕</span>
+                <span begin="03:33.933" end="03:34.063">く</span>
+                <span begin="03:34.063" end="03:35.963">悪</span>
+                <span begin="03:35.963" end="03:36.123">魔</span>
+                <span begin="03:36.123" end="03:37.383">が</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">却使粉碎光芒与希望的恶魔的身影</span>
+            </p>
+            <p begin="03:37.713" end="03:42.863" ttm:agent="v1" itunes:key="L23">
+                <span begin="03:37.713" end="03:37.883">ね</span>
+                <span begin="03:37.883" end="03:38.733">え</span>
+                <span begin="03:38.733" end="03:39.843">鏡</span>
+                <span begin="03:39.843" end="03:40.643">に</span>
+                <span begin="03:40.643" end="03:41.293">映</span>
+                <span begin="03:41.293" end="03:41.503">っ</span>
+                <span begin="03:41.503" end="03:41.693">て</span>
+                <span begin="03:41.693" end="03:42.863">る</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">倒映在了镜子里</span>
+            </p>
+            <p begin="03:43.513" end="03:48.163" ttm:agent="v1" itunes:key="L24">
+                <span begin="03:43.513" end="03:43.643">と</span>
+                <span begin="03:43.643" end="03:43.883">う</span>
+                <span begin="03:43.883" end="03:44.053">と</span>
+                <span begin="03:44.053" end="03:45.103">う</span>
+                <span begin="03:45.103" end="03:46.023">悲</span>
+                <span begin="03:46.023" end="03:46.443">し</span>
+                <span begin="03:46.443" end="03:46.893">そ</span>
+                <span begin="03:46.893" end="03:47.573">う</span>
+                <span begin="03:47.573" end="03:48.163">に</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">最终只能悲伤地</span>
+            </p>
+            <p begin="03:47.992" end="03:52.591" ttm:agent="v1" itunes:key="L25">
+                <span begin="03:47.992" end="03:48.332">目</span>
+                <span begin="03:48.332" end="03:48.792">を</span>
+                <span begin="03:48.792" end="03:49.262">合</span>
+                <span begin="03:49.262" end="03:49.732">わ</span>
+                <span begin="03:49.732" end="03:50.611">せ</span>
+                <span begin="03:50.611" end="03:50.901">た</span>
+                <span begin="03:50.901" end="03:52.591">の</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">闭上眼睛</span>
+            </p>
+            <p begin="03:56.851" end="04:05.038" ttm:agent="v1" itunes:key="L26">
+                <span begin="03:56.851" end="03:58.071">堕</span>
+                <span begin="03:58.071" end="03:58.261">ち</span>
+                <span begin="03:58.261" end="03:58.891">ゆ</span>
+                <span begin="03:58.891" end="03:59.091">く</span>
+                <span begin="03:59.091" end="03:59.391">身</span>
+                <span begin="03:59.391" end="03:59.921">を</span>
+                <span begin="03:59.921" end="04:00.061">こ</span>
+                <span begin="04:00.061" end="04:00.831">の</span>
+                <span begin="04:00.831" end="04:01.270">手</span>
+                <span begin="04:01.270" end="04:01.730">に</span>
+                <span begin="04:01.730" end="04:02.689">か</span>
+                <span begin="04:02.689" end="04:03.178">け</span>
+                <span begin="04:03.178" end="04:03.618">る</span>
+                <span begin="04:03.618" end="04:04.038">間</span>
+                <span begin="04:04.038" end="04:05.038">に</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我不断堕落的身躯受到伤害的时候</span>
+            </p>
+            <p begin="04:05.408" end="04:10.628" ttm:agent="v1" itunes:key="L27">
+                <span begin="04:05.408" end="04:06.438">誰</span>
+                <span begin="04:06.438" end="04:06.578">か</span>
+                <span begin="04:06.578" end="04:07.258">に</span>
+                <span begin="04:07.258" end="04:07.608">見</span>
+                <span begin="04:07.608" end="04:08.318">て</span>
+                <span begin="04:08.318" end="04:08.508">い</span>
+                <span begin="04:08.508" end="04:09.138">て</span>
+                <span begin="04:09.138" end="04:09.318">欲</span>
+                <span begin="04:09.318" end="04:09.508">し</span>
+                <span begin="04:09.508" end="04:10.098">い</span>
+                <span begin="04:10.098" end="04:10.628">の</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">希望有人用目光守护我</span>
+            </p>
+            <p begin="04:11.058" end="04:19.878" ttm:agent="v1" itunes:key="L28">
+                <span begin="04:11.058" end="04:12.968">七</span>
+                <span begin="04:12.968" end="04:13.828">色</span>
+                <span begin="04:13.828" end="04:13.998">に</span>
+                <span begin="04:13.998" end="04:14.708">光</span>
+                <span begin="04:14.708" end="04:14.878">り</span>
+                <span begin="04:14.878" end="04:15.728">散</span>
+                <span begin="04:15.728" end="04:15.908">り</span>
+                <span begin="04:15.908" end="04:16.428">行</span>
+                <span begin="04:16.428" end="04:17.338">く</span>
+                <span begin="04:17.338" end="04:18.308">言</span>
+                <span begin="04:18.308" end="04:18.768">葉</span>
+                <span begin="04:18.768" end="04:19.878">や</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在让你看到化作七色光芒的话语</span>
+            </p>
+            <p begin="04:20.258" end="04:28.508" ttm:agent="v1" itunes:key="L29">
+                <span begin="04:20.258" end="04:21.198">月</span>
+                <span begin="04:21.198" end="04:21.358">夜</span>
+                <span begin="04:21.358" end="04:22.088">に</span>
+                <span begin="04:22.088" end="04:22.338">泣</span>
+                <span begin="04:22.338" end="04:23.088">く</span>
+                <span begin="04:23.088" end="04:23.918">花</span>
+                <span begin="04:23.918" end="04:24.118">を</span>
+                <span begin="04:24.118" end="04:24.828">見</span>
+                <span begin="04:24.828" end="04:25.228">せ</span>
+                <span begin="04:25.228" end="04:25.688">る</span>
+                <span begin="04:25.688" end="04:26.168">ま</span>
+                <span begin="04:26.168" end="04:28.508">で</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">和月夜里哭泣的花朵之前</span>
+            </p>
+            <p begin="04:29.488" end="04:36.848" ttm:agent="v1" itunes:key="L30">
+                <span begin="04:29.488" end="04:30.178">微</span>
+                <span begin="04:30.178" end="04:33.198">笑</span>
+                <span begin="04:33.198" end="04:33.368">ん</span>
+                <span begin="04:33.368" end="04:33.548">で</span>
+                <span begin="04:33.548" end="04:33.758">い</span>
+                <span begin="04:33.758" end="04:36.848">て</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我一直微笑着</span>
+            </p>
+            <p begin="05:10.698" end="05:20.658" ttm:agent="v1" itunes:key="L31">
+                <span begin="05:10.698" end="05:13.778">手</span>
+                <span begin="05:13.778" end="05:14.058">を</span>
+                <span begin="05:14.058" end="05:14.238">取</span>
+                <span begin="05:14.238" end="05:14.678">っ</span>
+                <span begin="05:14.678" end="05:17.428">て</span>
+                <span begin="05:17.428" end="05:18.298">離</span>
+                <span begin="05:18.298" end="05:18.548">さ</span>
+                <span begin="05:18.548" end="05:19.018">な</span>
+                <span begin="05:19.018" end="05:19.268">い</span>
+                <span begin="05:19.268" end="05:20.658">で</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你抓紧我的手说不要离开</span>
+            </p>
+        </div>
+        <div begin="05:10.698" end="05:46.128">
+            <p begin="05:21.118" end="05:23.988" ttm:agent="v1" itunes:key="L32">
+                <span begin="05:21.118" end="05:22.028">笑</span>
+                <span begin="05:22.028" end="05:22.238">わ</span>
+                <span begin="05:22.238" end="05:22.848">な</span>
+                <span begin="05:22.848" end="05:23.018">い</span>
+                <span begin="05:23.018" end="05:23.988">で</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">不要再微笑了</span>
+            </p>
+            <p begin="05:24.408" end="05:31.648" ttm:agent="v1" itunes:key="L33">
+                <span begin="05:24.408" end="05:24.708">こ</span>
+                <span begin="05:24.708" end="05:25.258">の</span>
+                <span begin="05:25.258" end="05:27.688">目</span>
+                <span begin="05:27.688" end="05:27.888">を</span>
+                <span begin="05:27.888" end="05:28.088">開</span>
+                <span begin="05:28.088" end="05:28.508">い</span>
+                <span begin="05:28.508" end="05:28.898">て</span>
+                <span begin="05:28.898" end="05:29.328">言</span>
+                <span begin="05:29.328" end="05:29.478">う</span>
+                <span begin="05:29.478" end="05:31.648">わ</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我睁开眼睛说道</span>
+            </p>
+            <p begin="05:32.178" end="05:38.478" ttm:agent="v1" itunes:key="L34">
+                <span begin="05:32.178" end="05:33.008">夢</span>
+                <span begin="05:33.008" end="05:33.218">み</span>
+                <span begin="05:33.218" end="05:33.818">た</span>
+                <span begin="05:33.818" end="05:33.998">い</span>
+                <span begin="05:33.998" end="05:35.828">な</span>
+                <span begin="05:35.828" end="05:36.768">虹</span>
+                <span begin="05:36.768" end="05:36.978">み</span>
+                <span begin="05:36.978" end="05:37.658">た</span>
+                <span begin="05:37.658" end="05:37.818">い</span>
+                <span begin="05:37.818" end="05:38.478">な</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我想要梦幻般彩虹般的</span>
+            </p>
+            <p begin="05:38.648" end="05:46.128" ttm:agent="v1" itunes:key="L35">
+                <span begin="05:38.648" end="05:39.548">痛</span>
+                <span begin="05:39.548" end="05:40.038">み</span>
+                <span begin="05:40.038" end="05:41.898">が</span>
+                <span begin="05:41.898" end="05:43.228">欲</span>
+                <span begin="05:43.228" end="05:43.668">し</span>
+                <span begin="05:43.668" end="05:43.828">い</span>
+                <span begin="05:43.828" end="05:46.128">と</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">痛苦</span>
+            </p>
+            <p begin="06:01.987" end="06:10.596" ttm:agent="v1" itunes:key="L36">
+                <span begin="06:01.987" end="06:03.717">今</span>
+                <span begin="06:03.717" end="06:04.577">走</span>
+                <span begin="06:04.577" end="06:04.827">れ</span>
+                <span begin="06:04.827" end="06:05.507">ば</span>
+                <span begin="06:05.507" end="06:06.277">届</span>
+                <span begin="06:06.277" end="06:06.457">く</span>
+                <span begin="06:06.457" end="06:06.627">そ</span>
+                <span begin="06:06.627" end="06:07.227">の</span>
+                <span begin="06:07.227" end="06:08.136">手</span>
+                <span begin="06:08.136" end="06:08.566">の</span>
+                <span begin="06:08.566" end="06:09.026">向</span>
+                <span begin="06:09.026" end="06:09.506">こ</span>
+                <span begin="06:09.506" end="06:10.596">う</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">现在奔向远方的话</span>
+            </p>
+        </div>
+        <div begin="06:01.987" end="06:57.065">
+            <p begin="06:10.976" end="06:16.876" ttm:agent="v1" itunes:key="L37">
+                <span begin="06:10.976" end="06:11.946">昔</span>
+                <span begin="06:11.946" end="06:12.066">い</span>
+                <span begin="06:12.066" end="06:12.856">た</span>
+                <span begin="06:12.856" end="06:13.956">私</span>
+                <span begin="06:13.956" end="06:14.716">を</span>
+                <span begin="06:14.716" end="06:14.876">見</span>
+                <span begin="06:14.876" end="06:15.656">つ</span>
+                <span begin="06:15.656" end="06:15.816">け</span>
+                <span begin="06:15.816" end="06:16.246">る</span>
+                <span begin="06:16.246" end="06:16.876">の</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">就能企及那边的世界 找到过去的我</span>
+            </p>
+            <p begin="06:17.016" end="06:25.336" ttm:agent="v1" itunes:key="L38">
+                <span begin="06:17.016" end="06:18.296">遠</span>
+                <span begin="06:18.296" end="06:18.446">く</span>
+                <span begin="06:18.446" end="06:18.606">へ</span>
+                <span begin="06:18.606" end="06:19.366">と</span>
+                <span begin="06:19.366" end="06:20.086">淵</span>
+                <span begin="06:20.086" end="06:20.356">へ</span>
+                <span begin="06:20.356" end="06:21.206">と</span>
+                <span begin="06:21.206" end="06:21.366">ま</span>
+                <span begin="06:21.366" end="06:21.936">ど</span>
+                <span begin="06:21.936" end="06:22.846">ろ</span>
+                <span begin="06:22.846" end="06:23.366">む</span>
+                <span begin="06:23.366" end="06:25.336">間</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">向着远方向着深渊 在我沉睡的时候</span>
+            </p>
+            <p begin="06:25.706" end="06:30.926" ttm:agent="v1" itunes:key="L39">
+                <span begin="06:25.706" end="06:25.896">あ</span>
+                <span begin="06:25.896" end="06:26.686">な</span>
+                <span begin="06:26.686" end="06:26.896">た</span>
+                <span begin="06:26.896" end="06:27.606">に</span>
+                <span begin="06:27.606" end="06:27.766">見</span>
+                <span begin="06:27.766" end="06:28.636">て</span>
+                <span begin="06:28.636" end="06:28.796">い</span>
+                <span begin="06:28.796" end="06:29.516">て</span>
+                <span begin="06:29.516" end="06:29.676">欲</span>
+                <span begin="06:29.676" end="06:30.256">し</span>
+                <span begin="06:30.256" end="06:30.436">い</span>
+                <span begin="06:30.436" end="06:30.926">の</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我想让你看到我</span>
+            </p>
+            <p begin="06:31.196" end="06:40.096" ttm:agent="v1" itunes:key="L40">
+                <span begin="06:31.196" end="06:33.206">七</span>
+                <span begin="06:33.206" end="06:34.056">色</span>
+                <span begin="06:34.056" end="06:34.246">に</span>
+                <span begin="06:34.246" end="06:34.956">光</span>
+                <span begin="06:34.956" end="06:35.116">り</span>
+                <span begin="06:35.116" end="06:36.106">色</span>
+                <span begin="06:36.106" end="06:36.726">づ</span>
+                <span begin="06:36.726" end="06:37.636">く</span>
+                <span begin="06:37.636" end="06:38.046">明</span>
+                <span begin="06:38.046" end="06:38.996">日</span>
+                <span begin="06:38.996" end="06:40.096">を</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">那闪着七色光芒的明天</span>
+            </p>
+            <p begin="06:40.426" end="06:49.025" ttm:agent="v1" itunes:key="L41">
+                <span begin="06:40.426" end="06:41.526">私</span>
+                <span begin="06:41.526" end="06:42.336">を</span>
+                <span begin="06:42.336" end="06:42.506">つ</span>
+                <span begin="06:42.506" end="06:43.236">た</span>
+                <span begin="06:43.236" end="06:43.386">う</span>
+                <span begin="06:43.386" end="06:44.396">雫</span>
+                <span begin="06:44.396" end="06:45.086">を</span>
+                <span begin="06:45.086" end="06:45.386">見</span>
+                <span begin="06:45.386" end="06:45.946">せ</span>
+                <span begin="06:45.946" end="06:46.076">る</span>
+                <span begin="06:46.076" end="06:46.475">か</span>
+                <span begin="06:46.475" end="06:49.025">ら</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">那象征着我的存在的点滴</span>
+            </p>
+            <p begin="06:49.755" end="06:57.065" ttm:agent="v1" itunes:key="L42">
+                <span begin="06:49.755" end="06:50.145">微</span>
+                <span begin="06:50.145" end="06:53.395">笑</span>
+                <span begin="06:53.395" end="06:53.555">ん</span>
+                <span begin="06:53.555" end="06:53.705">で</span>
+                <span begin="06:53.705" end="06:53.865">い</span>
+                <span begin="06:53.865" end="06:57.065">て</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我都想微笑着向你展示</span>
+            </p>
+        </div>
+    </body>
+</tt>

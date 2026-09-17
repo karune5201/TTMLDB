@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="03:13.865">
+        <div begin="00:12.673" end="03:13.865">
+            <p begin="00:12.673" end="00:18.041" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:12.673" end="00:13.705">Staring </span>
+                <span begin="00:13.705" end="00:14.059">at </span>
+                <span begin="00:14.059" end="00:15.545">stars </span>
+                <span begin="00:15.545" end="00:16.457">watching </span>
+                <span begin="00:16.457" end="00:16.913">the </span>
+                <span begin="00:16.913" end="00:18.041">moon</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">凝望着漫天繁星 注视着明月</span>
+            </p>
+            <p begin="00:18.483" end="00:23.955" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:18.483" end="00:19.563">Hoping </span>
+                <span begin="00:19.563" end="00:19.987">that </span>
+                <span begin="00:19.987" end="00:20.515">one </span>
+                <span begin="00:20.515" end="00:20.779">day </span>
+                <span begin="00:21.171" end="00:21.603">they'll </span>
+                <span begin="00:21.603" end="00:21.995">lead </span>
+                <span begin="00:21.995" end="00:22.467">me </span>
+                <span begin="00:22.467" end="00:22.963">to </span>
+                <span begin="00:22.963" end="00:23.955">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">希望有朝一日 它们会指引我来到你身边</span>
+            </p>
+            <p begin="00:24.443" end="00:30.228" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:24.443" end="00:24.971">Wait </span>
+                <span begin="00:24.971" end="00:25.883">every </span>
+                <span begin="00:25.883" end="00:26.579">night </span>
+                <span begin="00:27.003" end="00:27.459">'cause </span>
+                <span begin="00:27.459" end="00:27.971">if </span>
+                <span begin="00:27.971" end="00:28.387">a </span>
+                <span begin="00:28.387" end="00:28.875">star </span>
+                <span begin="00:28.875" end="00:30.228">falls</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">每天晚上 静静等待 因为若星辰坠落天际</span>
+            </p>
+            <p begin="00:30.444" end="00:35.844" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:30.444" end="00:30.644">I'll </span>
+                <span begin="00:30.644" end="00:30.996">wish </span>
+                <span begin="00:30.996" end="00:31.420">to </span>
+                <span begin="00:31.420" end="00:31.940">go </span>
+                <span begin="00:31.940" end="00:32.548">back </span>
+                <span begin="00:32.548" end="00:32.972">to </span>
+                <span begin="00:32.972" end="00:33.484">the </span>
+                <span begin="00:33.484" end="00:34.084">times </span>
+                <span begin="00:34.084" end="00:34.508">that </span>
+                <span begin="00:34.508" end="00:34.988">I </span>
+                <span begin="00:34.988" end="00:35.844">loved</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会希望回到我那段我心爱的时光</span>
+            </p>
+            <p begin="00:36.644" end="00:41.500" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:36.644" end="00:37.036">Why </span>
+                <span begin="00:37.036" end="00:37.508">do </span>
+                <span begin="00:37.508" end="00:38.004">the </span>
+                <span begin="00:38.004" end="00:38.484">stars </span>
+                <span begin="00:38.484" end="00:38.980">shine </span>
+                <span begin="00:38.980" end="00:39.484">so </span>
+                <span begin="00:39.484" end="00:39.964">bright </span>
+                <span begin="00:39.964" end="00:40.412">in </span>
+                <span begin="00:40.412" end="00:40.844">the </span>
+                <span begin="00:40.844" end="00:41.500">sky</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">倘若大多数人在夜晚时分酣眠</span>
+            </p>
+            <p begin="00:41.932" end="00:48.368" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:41.932" end="00:42.604">If </span>
+                <span begin="00:42.604" end="00:42.964">most </span>
+                <span begin="00:42.964" end="00:43.324">of </span>
+                <span begin="00:43.324" end="00:43.924">the </span>
+                <span begin="00:43.924" end="00:45.636">people </span>
+                <span begin="00:45.636" end="00:46.615">are </span>
+                <span begin="00:46.615" end="00:46.887">sleeping </span>
+                <span begin="00:46.887" end="00:47.287">at </span>
+                <span begin="00:47.287" end="00:48.368">night</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">那为什么天空里的星星闪烁着璀璨的光芒</span>
+            </p>
+            <p begin="00:48.368" end="00:53.472" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:48.368" end="00:48.976">Why </span>
+                <span begin="00:48.976" end="00:49.457">do </span>
+                <span begin="00:49.457" end="00:49.936">we </span>
+                <span begin="00:49.936" end="00:51.008">only </span>
+                <span begin="00:51.008" end="00:51.472">have </span>
+                <span begin="00:51.472" end="00:51.968">one </span>
+                <span begin="00:51.968" end="00:52.488">chance </span>
+                <span begin="00:52.488" end="00:52.928">at </span>
+                <span begin="00:52.928" end="00:53.472">life</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">为什么我们一生之中只拥有一次机会</span>
+            </p>
+            <p begin="00:54.001" end="01:00.268" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:54.001" end="00:54.481">I </span>
+                <span begin="00:54.481" end="00:54.993">wish </span>
+                <span begin="00:54.993" end="00:55.481">I </span>
+                <span begin="00:55.481" end="00:55.961">could </span>
+                <span begin="00:55.961" end="00:56.569">go </span>
+                <span begin="00:56.569" end="00:57.097">back </span>
+                <span begin="00:57.097" end="00:57.553">in </span>
+                <span begin="00:57.553" end="01:00.268">time</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我希望我可以回到过去</span>
+            </p>
+            <p begin="01:00.668" end="01:11.637" ttm:agent="v1" itunes:key="L9">
+                <span begin="01:00.668" end="01:02.996">Hmmm </span>
+                <span begin="01:03.540" end="01:05.764">hmm </span>
+                <span begin="01:06.973" end="01:11.637">hmmm</span>
+            </p>
+            <p begin="01:12.677" end="01:17.813" ttm:agent="v1" itunes:key="L10">
+                <span begin="01:12.677" end="01:13.525">Pictures </span>
+                <span begin="01:13.525" end="01:14.477">remind </span>
+                <span begin="01:14.477" end="01:14.965">me </span>
+                <span begin="01:14.965" end="01:15.517">of </span>
+                <span begin="01:15.517" end="01:15.981">things </span>
+                <span begin="01:15.981" end="01:16.429">I </span>
+                <span begin="01:16.429" end="01:17.813">forgot</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">照片让我回想起那些早已忘却的事情</span>
+            </p>
+            <p begin="01:18.107" end="01:23.683" ttm:agent="v1" itunes:key="L11">
+                <span begin="01:18.107" end="01:18.498">But </span>
+                <span begin="01:18.498" end="01:19.467">also </span>
+                <span begin="01:19.467" end="01:19.987">of </span>
+                <span begin="01:19.987" end="01:20.490">all </span>
+                <span begin="01:20.490" end="01:20.946">of </span>
+                <span begin="01:20.946" end="01:21.427">the </span>
+                <span begin="01:21.427" end="01:21.946">things </span>
+                <span begin="01:21.946" end="01:22.427">that </span>
+                <span begin="01:22.427" end="01:22.867">I've </span>
+                <span begin="01:22.867" end="01:23.683">lost</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">但也会让我回想起我失去的一切</span>
+            </p>
+            <p begin="01:24.467" end="01:29.579" ttm:agent="v1" itunes:key="L12">
+                <span begin="01:24.467" end="01:25.011">Can't </span>
+                <span begin="01:25.011" end="01:25.426">get </span>
+                <span begin="01:25.426" end="01:25.986">them </span>
+                <span begin="01:25.986" end="01:26.491">back </span>
+                <span begin="01:26.491" end="01:26.947">they </span>
+                <span begin="01:26.947" end="01:27.474">won't </span>
+                <span begin="01:27.474" end="01:28.011">fall </span>
+                <span begin="01:28.011" end="01:28.434">from </span>
+                <span begin="01:28.434" end="01:29.579">above</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">无法挽回一切 也不会坠落天际</span>
+            </p>
+            <p begin="01:29.979" end="01:35.739" ttm:agent="v1" itunes:key="L13">
+                <span begin="01:29.979" end="01:30.451">So </span>
+                <span begin="01:30.451" end="01:30.682">I </span>
+                <span begin="01:30.682" end="01:31.042">try </span>
+                <span begin="01:31.042" end="01:31.451">to </span>
+                <span begin="01:31.451" end="01:32.411">forget </span>
+                <span begin="01:32.411" end="01:32.915">all </span>
+                <span begin="01:32.915" end="01:33.427">the </span>
+                <span begin="01:33.427" end="01:33.955">times </span>
+                <span begin="01:33.955" end="01:34.491">that </span>
+                <span begin="01:34.491" end="01:34.947">I've </span>
+                <span begin="01:34.947" end="01:35.739">loved</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">所以我试图忘记所有我热爱的时光</span>
+            </p>
+            <p begin="01:36.627" end="01:41.667" ttm:agent="v1" itunes:key="L14">
+                <span begin="01:36.627" end="01:37.075">Why </span>
+                <span begin="01:37.075" end="01:37.515">do </span>
+                <span begin="01:37.515" end="01:37.994">we </span>
+                <span begin="01:37.994" end="01:39.435">remember </span>
+                <span begin="01:39.435" end="01:40.858">beautiful </span>
+                <span begin="01:40.858" end="01:41.667">lies</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">为什么我们会记得那些美丽的谎言</span>
+            </p>
+            <p begin="01:42.003" end="01:47.547" ttm:agent="v1" itunes:key="L15">
+                <span begin="01:42.003" end="01:42.466">We </span>
+                <span begin="01:42.466" end="01:42.979">end </span>
+                <span begin="01:42.979" end="01:43.467">up </span>
+                <span begin="01:43.467" end="01:43.906">regretting </span>
+                <span begin="01:43.906" end="01:44.674">them </span>
+                <span begin="01:44.962" end="01:45.442">most </span>
+                <span begin="01:45.442" end="01:45.954">of </span>
+                <span begin="01:45.954" end="01:46.795">our </span>
+                <span begin="01:46.795" end="01:47.547">lives</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">最终我们一生中的大部分时间都沉浸在懊悔之中</span>
+            </p>
+            <p begin="01:48.620" end="01:53.525" ttm:agent="v1" itunes:key="L16">
+                <span begin="01:48.620" end="01:49.060">Why </span>
+                <span begin="01:49.060" end="01:49.461">do </span>
+                <span begin="01:49.461" end="01:50.005">we </span>
+                <span begin="01:50.005" end="01:50.909">only </span>
+                <span begin="01:50.909" end="01:51.444">have </span>
+                <span begin="01:51.444" end="01:51.973">one </span>
+                <span begin="01:51.973" end="01:52.460">chance </span>
+                <span begin="01:52.460" end="01:52.909">to </span>
+                <span begin="01:52.909" end="01:53.525">try</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">为什么我们只有一次尝试的机会</span>
+            </p>
+            <p begin="01:53.957" end="01:58.981" ttm:agent="v1" itunes:key="L17">
+                <span begin="01:53.957" end="01:54.412">I </span>
+                <span begin="01:54.412" end="01:54.925">wish </span>
+                <span begin="01:54.925" end="01:55.396">I </span>
+                <span begin="01:55.396" end="01:55.909">could </span>
+                <span begin="01:55.909" end="01:56.428">go </span>
+                <span begin="01:56.428" end="01:56.973">back </span>
+                <span begin="01:56.973" end="01:57.501">in </span>
+                <span begin="01:57.501" end="01:58.981">time</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我希望我可以回到过去</span>
+            </p>
+            <p begin="01:59.188" end="02:02.565" ttm:agent="v1" itunes:key="L18">
+                <span begin="01:59.188" end="01:59.509">Each </span>
+                <span begin="01:59.509" end="01:59.949">time </span>
+                <span begin="01:59.949" end="02:00.452">I </span>
+                <span begin="02:00.452" end="02:01.469">fall </span>
+                <span begin="02:01.469" end="02:02.565">asleep</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">每当我酣然入睡</span>
+            </p>
+            <p begin="02:03.461" end="02:08.677" ttm:agent="v1" itunes:key="L19">
+                <span begin="02:03.461" end="02:04.173">I </span>
+                <span begin="02:04.173" end="02:04.869">always </span>
+                <span begin="02:04.869" end="02:05.373">see </span>
+                <span begin="02:05.373" end="02:05.861">you </span>
+                <span begin="02:05.861" end="02:06.469">there </span>
+                <span begin="02:06.469" end="02:07.453">in </span>
+                <span begin="02:07.453" end="02:07.997">my </span>
+                <span begin="02:07.997" end="02:08.677">dreams</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我总是在我的梦中见到你</span>
+            </p>
+            <p begin="02:08.981" end="02:14.493" ttm:agent="v1" itunes:key="L20">
+                <span begin="02:08.981" end="02:09.525">It's </span>
+                <span begin="02:09.525" end="02:09.989">like </span>
+                <span begin="02:09.989" end="02:10.756">going </span>
+                <span begin="02:10.756" end="02:11.469">back </span>
+                <span begin="02:11.469" end="02:11.933">in </span>
+                <span begin="02:11.933" end="02:12.445">a </span>
+                <span begin="02:12.445" end="02:13.397">time </span>
+                <span begin="02:13.397" end="02:14.493">machine</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">就像坐着时光机回到过去一样</span>
+            </p>
+            <p begin="02:14.941" end="02:22.373" ttm:agent="v1" itunes:key="L21">
+                <span begin="02:14.941" end="02:15.469">I </span>
+                <span begin="02:15.469" end="02:15.925">know </span>
+                <span begin="02:15.925" end="02:16.373">when </span>
+                <span begin="02:16.373" end="02:16.893">I </span>
+                <span begin="02:16.893" end="02:17.341">wake </span>
+                <span begin="02:17.341" end="02:17.861">up </span>
+                <span begin="02:17.861" end="02:18.405">your </span>
+                <span begin="02:18.405" end="02:19.396">time </span>
+                <span begin="02:19.396" end="02:19.885">with </span>
+                <span begin="02:19.885" end="02:20.453">me </span>
+                <span begin="02:20.901" end="02:21.445">will </span>
+                <span begin="02:21.445" end="02:22.373">end</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我知道在我醒来之后 我们共处的时光将会画上句点</span>
+            </p>
+            <p begin="02:22.573" end="02:26.365" ttm:agent="v1" itunes:key="L22">
+                <span begin="02:22.573" end="02:22.941">So </span>
+                <span begin="02:22.941" end="02:23.477">don't </span>
+                <span begin="02:23.477" end="02:23.893">let </span>
+                <span begin="02:23.893" end="02:24.437">me </span>
+                <span begin="02:24.437" end="02:25.429">fall </span>
+                <span begin="02:25.429" end="02:26.365">asleep</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">所以不要让我酣然入睡</span>
+            </p>
+            <p begin="02:26.925" end="02:32.596" ttm:agent="v1" itunes:key="L23">
+                <span begin="02:26.925" end="02:27.509">I </span>
+                <span begin="02:27.509" end="02:28.037">don't </span>
+                <span begin="02:28.037" end="02:28.949">wanna </span>
+                <span begin="02:28.949" end="02:29.453">meet </span>
+                <span begin="02:29.453" end="02:29.925">you </span>
+                <span begin="02:29.925" end="02:30.404">there </span>
+                <span begin="02:30.404" end="02:31.413">in </span>
+                <span begin="02:31.413" end="02:31.900">my </span>
+                <span begin="02:31.900" end="02:32.596">dreams</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我不想在我的梦中与你相见</span>
+            </p>
+            <p begin="02:32.949" end="02:38.637" ttm:agent="v1" itunes:key="L24">
+                <span begin="02:32.949" end="02:33.405">I </span>
+                <span begin="02:33.405" end="02:33.877">know </span>
+                <span begin="02:33.877" end="02:34.365">that </span>
+                <span begin="02:34.365" end="02:34.877">we'll </span>
+                <span begin="02:34.877" end="02:35.549">never </span>
+                <span begin="02:35.549" end="02:35.925">build </span>
+                <span begin="02:35.925" end="02:36.437">a </span>
+                <span begin="02:36.437" end="02:37.453">time </span>
+                <span begin="02:37.453" end="02:38.637">machine</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我知道我们永远造不出时光机</span>
+            </p>
+            <p begin="02:39.037" end="02:46.869" ttm:agent="v1" itunes:key="L25">
+                <span begin="02:39.037" end="02:39.461">It's </span>
+                <span begin="02:39.461" end="02:40.413">time </span>
+                <span begin="02:40.413" end="02:40.973">for </span>
+                <span begin="02:40.973" end="02:41.933">me </span>
+                <span begin="02:41.933" end="02:42.429">to </span>
+                <span begin="02:42.429" end="02:43.060">try </span>
+                <span begin="02:43.060" end="02:43.845">and </span>
+                <span begin="02:43.845" end="02:44.572">wake </span>
+                <span begin="02:44.572" end="02:45.029">up </span>
+                <span begin="02:45.029" end="02:46.869">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">现在该我勇敢尝试了 再次清醒过来</span>
+            </p>
+            <p begin="02:48.801" end="02:50.322" ttm:agent="v1" itunes:key="L26">
+                <span begin="02:48.801" end="02:49.146">I </span>
+                <span begin="02:49.146" end="02:49.530">fall </span>
+                <span begin="02:49.530" end="02:50.322">asleep</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我酣然入睡</span>
+            </p>
+            <p begin="02:50.996" end="02:53.532" ttm:agent="v1" itunes:key="L27">
+                <span begin="02:50.996" end="02:51.428">But </span>
+                <span begin="02:51.428" end="02:53.532">honestly</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">但说实话</span>
+            </p>
+            <p begin="02:54.660" end="02:59.637" ttm:agent="v1" itunes:key="L28">
+                <span begin="02:54.660" end="02:54.989">I </span>
+                <span begin="02:54.989" end="02:55.781">wanna </span>
+                <span begin="02:55.781" end="02:56.349">see </span>
+                <span begin="02:56.821" end="02:57.412">you </span>
+                <span begin="02:57.412" end="02:58.365">in </span>
+                <span begin="02:58.365" end="02:58.861">my </span>
+                <span begin="02:58.861" end="02:59.637">dreams</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我渴望在我的梦中见到你</span>
+            </p>
+            <p begin="03:06.276" end="03:13.865" ttm:agent="v1" itunes:key="L29">
+                <span begin="03:06.276" end="03:06.620">I'm </span>
+                <span begin="03:06.620" end="03:07.564">trying </span>
+                <span begin="03:07.564" end="03:08.076">to </span>
+                <span begin="03:08.076" end="03:09.501">wake </span>
+                <span begin="03:09.501" end="03:10.393">up </span>
+                <span begin="03:12.129" end="03:13.865">again</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我竭尽全力 再次清醒过来</span>
+            </p>
+        </div>
+    </body>
+</tt>

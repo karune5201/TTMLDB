@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="04:28.140">
+        <div begin="00:42.900" end="03:11.160">
+            <p begin="00:42.900" end="00:47.940" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:42.900" end="00:43.710">End </span>
+                <span begin="00:43.710" end="00:44.010">up </span>
+                <span begin="00:44.010" end="00:45.000">in </span>
+                <span begin="00:45.000" end="00:45.120">a </span>
+                <span begin="00:45.240" end="00:45.960">mist-pale </span>
+                <span begin="00:45.960" end="00:47.940">sleep </span>
+            </p>
+            <p begin="00:50.970" end="00:57.330" ttm:agent="v2" itunes:key="L2">
+                <span begin="00:50.970" end="00:51.570">无</span>
+                <span begin="00:51.570" end="00:51.930">奈</span>
+                <span begin="00:51.930" end="00:52.950">多</span>
+                <span begin="00:52.950" end="00:54.000">维</span>
+                <span begin="00:54.810" end="00:55.200">星</span>
+                <span begin="00:55.200" end="00:55.650">系</span>
+                <span begin="00:55.650" end="00:55.890">的</span>
+                <span begin="00:55.890" end="00:56.910">变</span>
+                <span begin="00:56.910" end="00:57.330">幻</span>
+            </p>
+            <p begin="00:57.600" end="01:05.400" ttm:agent="v2" itunes:key="L3">
+                <span begin="00:57.600" end="00:57.930">也</span>
+                <span begin="00:57.960" end="00:58.560">无</span>
+                <span begin="00:58.590" end="00:59.490">缘</span>
+                <span begin="01:01.230" end="01:01.650">交</span>
+                <span begin="01:01.650" end="01:01.860">叠</span>
+                <span begin="01:01.860" end="01:02.880">时</span>
+                <span begin="01:02.910" end="01:03.840">空</span>
+                <span begin="01:03.870" end="01:04.920">之</span>
+                <span begin="01:04.920" end="01:05.400">外</span>
+            </p>
+            <p begin="01:05.580" end="01:07.650" ttm:agent="v2" itunes:key="L4">
+                <span begin="01:05.580" end="01:05.940">你</span>
+                <span begin="01:05.970" end="01:06.420">的</span>
+                <span begin="01:06.420" end="01:07.650">手</span>
+            </p>
+            <p begin="01:08.880" end="01:10.890" ttm:agent="v1" itunes:key="L5">
+                <span begin="01:08.880" end="01:09.600">holding </span>
+                <span begin="01:09.600" end="01:09.930">him </span>
+                <span begin="01:09.930" end="01:10.890">tightly </span>
+            </p>
+            <p begin="01:10.950" end="01:12.630" ttm:agent="v1" itunes:key="L6">
+                <span begin="01:10.950" end="01:11.280">then </span>
+                <span begin="01:11.280" end="01:11.550">know </span>
+                <span begin="01:11.580" end="01:11.640">hes </span>
+                <span begin="01:11.640" end="01:12.630">here </span>
+            </p>
+            <p begin="01:12.960" end="01:15.870" ttm:agent="v2" itunes:key="L7">
+                <span begin="01:12.960" end="01:13.320">聚</span>
+                <span begin="01:13.320" end="01:13.710">集</span>
+                <span begin="01:13.710" end="01:13.890">又</span>
+                <span begin="01:13.920" end="01:14.520">分</span>
+                <span begin="01:14.550" end="01:15.870">解</span>
+            </p>
+            <p begin="01:16.890" end="01:20.340" ttm:agent="v1" itunes:key="L8">    
+                <span begin="01:16.890" end="01:19.230">how </span>
+                <span begin="01:19.260" end="01:20.340">pathetic </span>
+            </p>
+            <p begin="01:20.580" end="01:26.490" ttm:agent="v2" itunes:key="L9">
+                <span begin="01:20.580" end="01:20.970">所</span>
+                <span begin="01:20.970" end="01:21.270">以</span>
+                <span begin="01:21.270" end="01:21.540">该</span>
+                <span begin="01:21.540" end="01:21.930">毁</span>
+                <span begin="01:21.930" end="01:22.230">灭</span>
+                <span begin="01:24.570" end="01:24.810">接</span>
+                <span begin="01:24.810" end="01:25.470">受</span>
+                <span begin="01:25.500" end="01:25.830">筛</span>
+                <span begin="01:25.860" end="01:26.490">选</span>
+            </p>
+            <p begin="01:28.560" end="01:31.440" ttm:agent="v2" itunes:key="L10">
+                <span begin="01:28.560" end="01:28.890">滤</span>
+                <span begin="01:28.890" end="01:29.340">过</span>
+                <span begin="01:29.340" end="01:29.610">的</span>
+                <span begin="01:29.610" end="01:29.910">粒</span>
+                <span begin="01:29.940" end="01:30.480">子</span>
+                <span begin="01:30.510" end="01:30.780">是</span>
+                <span begin="01:30.810" end="01:31.440">谁</span>
+            </p>
+            <p begin="01:31.560" end="01:34.200" ttm:agent="v2" itunes:key="L11">
+                <span begin="01:31.560" end="01:31.890">将</span>
+                <span begin="01:31.890" end="01:32.220">残</span>
+                <span begin="01:32.250" end="01:32.670">破</span>
+                <span begin="01:32.670" end="01:32.910">的</span>
+                <span begin="01:32.940" end="01:33.270">次</span>
+                <span begin="01:33.300" end="01:33.540">元</span>
+                <span begin="01:33.570" end="01:33.870">重</span>
+                <span begin="01:33.900" end="01:34.200">建</span>
+            </p>
+            <p begin="01:36.570" end="01:39.000" ttm:agent="v1" itunes:key="L12">
+                <span begin="01:36.570" end="01:37.020">Its </span>
+                <span begin="01:37.020" end="01:37.260">you </span>
+                <span begin="01:37.260" end="01:37.620">hold </span>
+                <span begin="01:37.620" end="01:37.890">me </span>
+                <span begin="01:37.890" end="01:38.550">back </span>
+                <span begin="01:38.550" end="01:39.000">from </span>
+            </p>
+            <p begin="01:39.240" end="01:42.780" ttm:agent="v2" itunes:key="L13">
+                <span begin="01:39.240" end="01:39.570">创</span>
+                <span begin="01:39.570" end="01:39.870">造</span>
+                <span begin="01:39.900" end="01:40.290">最</span>
+                <span begin="01:40.590" end="01:41.220">美</span>
+                <span begin="01:41.220" end="01:41.640">丽</span>
+                <span begin="01:41.640" end="01:41.940">的</span>
+                <span begin="01:41.940" end="01:42.570">永</span>
+                <span begin="01:42.600" end="01:42.780">恒</span>
+            </p>
+            <p begin="01:44.550" end="01:46.980" ttm:agent="v1" itunes:key="L14">
+                <span begin="01:44.550" end="01:44.880">I </span>
+                <span begin="01:44.910" end="01:45.240">dont </span>
+                <span begin="01:45.240" end="01:45.630">want </span>
+                <span begin="01:45.630" end="01:45.930">to </span>
+                <span begin="01:45.930" end="01:46.620">be </span>
+                <span begin="01:46.620" end="01:46.980">you </span>
+            </p>
+            <p begin="01:47.220" end="01:50.730" ttm:agent="v2" itunes:key="L15">
+                <span begin="01:47.220" end="01:47.670">对</span>
+                <span begin="01:47.670" end="01:47.850">一</span>
+                <span begin="01:47.850" end="01:48.600">切</span>
+                <span begin="01:48.600" end="01:49.230">未</span>
+                <span begin="01:49.230" end="01:49.980">知</span>
+                <span begin="01:49.980" end="01:50.340">都</span>
+                <span begin="01:50.340" end="01:50.580">愚</span>
+                <span begin="01:50.580" end="01:50.730">笨</span>
+            </p>
+            <p begin="01:53.580" end="01:55.530" ttm:agent="v1" itunes:key="L16">
+                <span begin="01:53.580" end="01:53.970">The </span>
+                <span begin="01:53.970" end="01:54.210">old </span>
+                <span begin="01:54.210" end="01:54.690">folks </span>
+                <span begin="01:54.690" end="01:54.990">were </span>
+                <span begin="01:54.990" end="01:55.530">lying </span>
+            </p>
+            <p begin="01:55.890" end="01:57.300" ttm:agent="v1" itunes:key="L17">
+                <span begin="01:55.890" end="01:55.920">Theres </span>
+                <span begin="01:55.920" end="01:56.220">no </span>
+                <span begin="01:56.220" end="01:56.850">golden </span>
+                <span begin="01:56.850" end="01:57.300">fleece </span>
+            </p>
+            <p begin="01:57.510" end="01:59.310" ttm:agent="v1" itunes:key="L18">
+                <span begin="01:57.510" end="01:58.020">So </span>
+                <span begin="01:58.020" end="01:58.200">I </span>
+                <span begin="01:58.200" end="01:58.740">broke </span>
+                <span begin="01:58.740" end="01:59.070">it </span>
+                <span begin="01:59.070" end="01:59.310">up </span>
+            </p>
+            <p begin="01:59.580" end="02:00.930" ttm:agent="v1" itunes:key="L19">
+                <span begin="01:59.580" end="02:00.210">Future </span>
+                <span begin="02:00.210" end="02:00.930">pandora </span>
+            </p>
+            <p begin="02:04.920" end="02:08.640" ttm:agent="v1" itunes:key="L20">
+                <span begin="02:04.920" end="02:05.610">For </span>
+                <span begin="02:05.610" end="02:06.060">next </span>
+                <span begin="02:06.060" end="02:08.640">age </span>
+            </p>
+            <p begin="02:10.949" end="02:14.610" ttm:agent="v1" itunes:key="L21">
+                <span begin="02:10.949" end="02:11.879">People </span>
+                <span begin="02:11.880" end="02:13.410">celebrate </span>
+                <span begin="02:13.590" end="02:13.830">by </span>
+                <span begin="02:13.830" end="02:14.610">fireworks </span>
+            </p>
+            <p begin="02:18.990" end="02:23.610" ttm:agent="v1" itunes:key="L22">
+                <span begin="02:18.990" end="02:19.290">Like </span>
+                <span begin="02:19.290" end="02:19.680">millions </span>
+                <span begin="02:19.680" end="02:19.920">of </span>
+                <span begin="02:19.920" end="02:21.690">galaxies </span>
+                <span begin="02:21.690" end="02:21.840">are </span>
+                <span begin="02:21.840" end="02:23.610">blasting </span>
+            </p>
+            <p begin="02:26.820" end="02:33.300" ttm:agent="v2" itunes:key="L23">
+                <span begin="02:26.820" end="02:27.480">成</span>
+                <span begin="02:27.510" end="02:27.960">群</span>
+                <span begin="02:27.960" end="02:28.890">蝼</span>
+                <span begin="02:28.920" end="02:29.580">蚁</span>
+                <span begin="02:30.870" end="02:31.620">为</span>
+                <span begin="02:31.620" end="02:31.950">地</span>
+                <span begin="02:31.950" end="02:32.550">染</span>
+                <span begin="02:32.550" end="02:32.820">黑</span>
+                <span begin="02:32.820" end="02:33.300">霜</span>
+            </p>
+            <p begin="02:33.480" end="02:41.190" ttm:agent="v2" itunes:key="L24">
+                <span begin="02:33.480" end="02:33.900">少</span>
+                <span begin="02:33.930" end="02:34.530">一</span>
+                <span begin="02:34.530" end="02:35.490">只</span>
+                <span begin="02:37.230" end="02:37.650">多</span>
+                <span begin="02:37.650" end="02:37.950">一</span>
+                <span begin="02:37.950" end="02:38.940">只</span>
+                <span begin="02:38.940" end="02:39.960">也</span>
+                <span begin="02:39.960" end="02:40.860">无</span>
+                <span begin="02:40.860" end="02:41.190">妨</span>
+            </p>
+            <p begin="02:41.250" end="02:43.710" ttm:agent="v2" itunes:key="L25">
+                <span begin="02:41.250" end="02:41.610">可</span>
+                <span begin="02:41.610" end="02:41.970">你</span>
+                <span begin="02:41.970" end="02:42.420">的</span>
+                <span begin="02:42.420" end="02:43.710">手</span>
+            </p>
+            <p begin="02:44.880" end="02:46.920" ttm:agent="v1" itunes:key="L26">
+                <span begin="02:44.880" end="02:45.600">holding </span>
+                <span begin="02:45.600" end="02:45.870">me </span>
+                <span begin="02:45.870" end="02:46.920">tightly </span>
+            </p>
+            <p begin="02:46.980" end="02:48.600" ttm:agent="v1" itunes:key="L27">
+                <span begin="02:46.980" end="02:47.250">then </span>
+                <span begin="02:47.250" end="02:47.580">know </span>
+                <span begin="02:47.580" end="02:47.820">my </span>
+                <span begin="02:47.820" end="02:48.600">name </span>
+            </p>
+            <p begin="02:48.840" end="02:51.720" ttm:agent="v2" itunes:key="L28">
+                <span begin="02:48.840" end="02:49.290">世</span>
+                <span begin="02:49.290" end="02:49.590">界</span>
+                <span begin="02:49.590" end="02:49.920">在</span>
+                <span begin="02:49.920" end="02:50.460">破</span>
+                <span begin="02:50.460" end="02:51.720">碎</span>
+            </p>
+            <p begin="02:52.710" end="02:56.340" ttm:agent="v1" itunes:key="L29">
+                <span begin="02:52.710" end="02:55.830">so </span>
+                <span begin="02:55.830" end="02:56.340">often </span>
+            </p>
+            <p begin="02:56.610" end="03:02.370" ttm:agent="v2" itunes:key="L30">
+                <span begin="02:56.610" end="02:56.970">而</span>
+                <span begin="02:57.000" end="02:57.330">你</span>
+                <span begin="02:57.330" end="02:57.540">的</span>
+                <span begin="02:57.540" end="02:57.900">存</span>
+                <span begin="02:57.930" end="02:58.740">在</span>
+                <span begin="03:00.600" end="03:00.840">如</span>
+                <span begin="03:00.900" end="03:01.560">此</span>
+                <span begin="03:01.620" end="03:01.920">温</span>
+                <span begin="03:01.950" end="03:02.370">暖</span>
+            </p>
+            <p begin="03:04.470" end="03:07.380" ttm:agent="v2" itunes:key="L31">
+                <span begin="03:04.470" end="03:04.890">闪</span>
+                <span begin="03:04.920" end="03:05.310">过</span>
+                <span begin="03:05.310" end="03:05.550">的</span>
+                <span begin="03:05.550" end="03:05.910">画</span>
+                <span begin="03:05.940" end="03:06.480">面</span>
+                <span begin="03:06.510" end="03:06.840">是</span>
+                <span begin="03:06.840" end="03:07.380">谁</span>
+            </p>
+            <p begin="03:07.590" end="03:11.160" ttm:agent="v2" itunes:key="L32">
+                <span begin="03:07.590" end="03:07.860">反</span>
+                <span begin="03:07.860" end="03:08.280">复</span>
+                <span begin="03:08.280" end="03:08.550">地</span>
+                <span begin="03:08.580" end="03:08.970">在</span>
+                <span begin="03:08.970" end="03:09.300">脑</span>
+                <span begin="03:09.330" end="03:09.570">内</span>
+                <span begin="03:09.570" end="03:09.810">重</span>
+                <span begin="03:09.840" end="03:11.160">现</span>
+            </p>
+            <p begin="03:24.840" end="03:33.960" ttm:agent="v1" itunes:key="L33">
+                <span begin="03:24.840" end="03:27.000">For </span>
+                <span begin="03:28.950" end="03:30.540">years </span>
+                <span begin="03:30.540" end="03:30.570">I </span>
+                <span begin="03:30.600" end="03:31.620">used </span>
+                <span begin="03:31.620" end="03:31.950">to </span>
+                <span begin="03:32.250" end="03:32.940">be </span>
+                <span begin="03:32.940" end="03:32.970">a </span>
+                <span begin="03:32.970" end="03:33.600">lonely </span>
+                <span begin="03:33.600" end="03:33.960">star </span>
+            </p>
+        </div>
+        <div begin="03:24.840" end="04:28.140">
+            <p begin="03:34.590" end="03:38.070" ttm:agent="v1" itunes:key="L34">
+                <span begin="03:34.590" end="03:34.650">No </span>
+                <span begin="03:34.650" end="03:34.890">sea </span>
+                <span begin="03:34.890" end="03:35.220">no </span>
+                <span begin="03:35.250" end="03:35.700">life </span>
+                <span begin="03:35.700" end="03:35.940">on </span>
+                <span begin="03:36.240" end="03:36.570">No </span>
+                <span begin="03:36.570" end="03:37.380">satellite </span>
+                <span begin="03:37.380" end="03:38.070">around </span>
+            </p>
+            <p begin="03:38.310" end="03:42.000" ttm:agent="v1" itunes:key="L35">
+                <span begin="03:38.310" end="03:39.030">Until </span>
+                <span begin="03:39.030" end="03:39.240">I </span>
+                <span begin="03:39.270" end="03:39.690">met </span>
+                <span begin="03:39.690" end="03:39.840">you </span>
+                <span begin="03:39.840" end="03:40.140">everything </span>
+                <span begin="03:40.140" end="03:40.230">had </span>
+                <span begin="03:41.520" end="03:42.000">changed </span>
+            </p>
+            <p begin="03:42.270" end="03:44.550" ttm:agent="v1" itunes:key="L36">
+                <span begin="03:42.270" end="03:42.540">You </span>
+                <span begin="03:42.540" end="03:43.020">made </span>
+                <span begin="03:43.020" end="03:43.530">this </span>
+                <span begin="03:43.590" end="03:44.550">unique </span>
+            </p>
+            <p begin="03:44.880" end="03:47.190" ttm:agent="v1" itunes:key="L37">
+                <span begin="03:44.880" end="03:44.910">Dont </span>
+                <span begin="03:44.910" end="03:45.420">hold </span>
+                <span begin="03:45.420" end="03:45.870">me </span>
+                <span begin="03:45.870" end="03:46.560">back </span>
+                <span begin="03:46.560" end="03:47.190">from </span>
+            </p>
+            <p begin="03:47.250" end="03:50.790" ttm:agent="v2" itunes:key="L38">
+                <span begin="03:47.250" end="03:47.580">创</span>
+                <span begin="03:47.610" end="03:47.880">造</span>
+                <span begin="03:47.910" end="03:48.570">最</span>
+                <span begin="03:48.570" end="03:49.230">美</span>
+                <span begin="03:49.230" end="03:49.650">丽</span>
+                <span begin="03:49.650" end="03:49.950">的</span>
+                <span begin="03:49.950" end="03:50.580">永</span>
+                <span begin="03:50.610" end="03:50.790">恒</span>
+            </p>
+            <p begin="03:52.590" end="03:54.960" ttm:agent="v1" itunes:key="L39">
+                <span begin="03:52.590" end="03:52.920">I </span>
+                <span begin="03:52.950" end="03:53.340">dont </span>
+                <span begin="03:53.340" end="03:53.670">want </span>
+                <span begin="03:53.670" end="03:53.970">to </span>
+                <span begin="03:53.970" end="03:54.540">be </span>
+                <span begin="03:54.570" end="03:54.960">you </span>
+            </p>
+            <p begin="03:55.230" end="03:58.800" ttm:agent="v2" itunes:key="L40">
+                <span begin="03:55.230" end="03:55.680">对</span>
+                <span begin="03:55.680" end="03:55.890">一</span>
+                <span begin="03:55.890" end="03:56.610">切</span>
+                <span begin="03:56.610" end="03:57.210">未</span>
+                <span begin="03:57.240" end="03:57.930">知</span>
+                <span begin="03:57.960" end="03:58.350">都</span>
+                <span begin="03:58.350" end="03:58.650">愚</span>
+                <span begin="03:58.650" end="03:58.800">笨</span>
+            </p>
+            <p begin="04:01.620" end="04:03.420" ttm:agent="v1" itunes:key="L41">
+                <span begin="04:01.620" end="04:02.040">The </span>
+                <span begin="04:02.040" end="04:02.250">old </span>
+                <span begin="04:02.250" end="04:02.670">folks </span>
+                <span begin="04:02.670" end="04:02.970">were </span>
+                <span begin="04:02.970" end="04:03.420">lying </span>
+            </p>
+            <p begin="04:03.900" end="04:05.310" ttm:agent="v1" itunes:key="L42">
+                <span begin="04:03.900" end="04:03.930">Theres </span>
+                <span begin="04:03.930" end="04:04.230">no </span>
+                <span begin="04:04.230" end="04:04.830">golden </span>
+                <span begin="04:04.830" end="04:05.310">fleece </span>
+            </p>
+            <p begin="04:05.550" end="04:07.260" ttm:agent="v1" itunes:key="L43">
+                <span begin="04:05.550" end="04:06.030">So </span>
+                <span begin="04:06.030" end="04:06.180">I </span>
+                <span begin="04:06.180" end="04:06.660">broke </span>
+                <span begin="04:06.660" end="04:07.020">it </span>
+                <span begin="04:07.020" end="04:07.260">up </span>
+            </p>
+            <p begin="04:07.560" end="04:09.030" ttm:agent="v1" itunes:key="L44">
+                <span begin="04:07.560" end="04:08.190">Future </span>
+                <span begin="04:08.190" end="04:09.030">pandora </span>
+            </p>
+            <p begin="04:12.900" end="04:17.100" ttm:agent="v1" itunes:key="L45">
+                <span begin="04:12.900" end="04:13.590">For </span>
+                <span begin="04:13.590" end="04:13.920">next </span>
+                <span begin="04:14.040" end="04:17.100">age </span>
+            </p>
+            <p begin="04:17.550" end="04:19.320" ttm:agent="v1" itunes:key="L46">
+                <span begin="04:17.550" end="04:17.910">So </span>
+                <span begin="04:17.940" end="04:18.240">I </span>
+                <span begin="04:18.240" end="04:18.690">broke </span>
+                <span begin="04:18.690" end="04:19.050">it </span>
+                <span begin="04:19.050" end="04:19.320">up </span>
+            </p>
+            <p begin="04:19.529" end="04:21.180" ttm:agent="v1" itunes:key="L47">
+                <span begin="04:19.529" end="04:20.189">Future </span>
+                <span begin="04:20.190" end="04:21.180">pandora </span>
+            </p>
+            <p begin="04:25.410" end="04:28.140" ttm:agent="v1" itunes:key="L48">
+                <span begin="04:25.410" end="04:26.130">For </span>
+                <span begin="04:26.130" end="04:26.250">next </span>
+                <span begin="04:27.120" end="04:28.140">age </span>
+            </p>
+        </div>
+    </body>
+</tt>

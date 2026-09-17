@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:itunes="http://music.apple.com/itunes/ttml">
+    <body>
+        <div>
+            <p begin="00:00:04.246" end="00:00:19.743">
+                <span begin="00:00:04.246" end="00:00:05.310">Os </span>
+                <span begin="00:00:05.310" end="00:00:08.463">iusti </span>
+                <span begin="00:00:08.463" end="00:00:15.247">meditabitur </span>
+                <span begin="00:00:15.247" end="00:00:19.743">sapientiam</span>
+                <span ttm:role="x-translation">义人的口道出智慧</span>
+            </p>
+            <p begin="00:00:19.743" end="00:00:28.822">
+                <span begin="00:00:19.743" end="00:00:20.342">Et </span>
+                <span begin="00:00:20.342" end="00:00:21.382">lingua </span>
+                <span begin="00:00:21.382" end="00:00:23.974">eius </span>
+                <span begin="00:00:23.974" end="00:00:25.558">loquetur </span>
+                <span begin="00:00:25.558" end="00:00:28.822">indicium</span>
+                <span ttm:role="x-translation">义人的舌诉出正义</span>
+            </p>
+            <p begin="00:00:28.822" end="00:00:40.051">
+                <span begin="00:00:28.822" end="00:00:29.814">Beatus </span>
+                <span begin="00:00:29.814" end="00:00:31.603">vir </span>
+                <span begin="00:00:31.603" end="00:00:33.011">qui </span>
+                <span begin="00:00:33.011" end="00:00:34.115">suffert </span>
+                <span begin="00:00:34.115" end="00:00:40.051">tentationem</span>
+                <span ttm:role="x-translation">经试炼的人得着福气</span>
+            </p>
+            <p begin="00:00:40.051" end="00:00:50.892">
+                <span begin="00:00:40.051" end="00:00:41.635">Quoniqm </span>
+                <span begin="00:00:41.635" end="00:00:44.371">cum </span>
+                <span begin="00:00:44.371" end="00:00:45.907">probates </span>
+                <span begin="00:00:45.907" end="00:00:47.195">fuerit </span>
+                <span begin="00:00:47.195" end="00:00:48.219">accipient </span>
+                <span begin="00:00:48.219" end="00:00:49.851">coronam </span>
+                <span begin="00:00:49.851" end="00:00:50.892">vitae</span>
+                <span ttm:role="x-translation">因为试炼过后,他必得生命冠冕</span>
+            </p>
+            <p begin="00:00:50.892" end="00:00:59.310">
+                <span begin="00:00:50.892" end="00:00:57.426">Kyrie </span>
+                <span begin="00:00:57.426" end="00:00:57.682">fons </span>
+                <span begin="00:00:57.682" end="00:00:59.310">bonitatis</span>
+                <span ttm:role="x-translation">耶和华 善良的源泉</span>
+            </p>
+            <p begin="00:00:59.310" end="00:01:12.955">
+                <span begin="00:00:59.310" end="00:01:05.499">Kyrie </span>
+                <span begin="00:01:05.499" end="00:01:06.331">ignis </span>
+                <span begin="00:01:06.331" end="00:01:07.451">divine </span>
+                <span begin="00:01:07.451" end="00:01:12.955">eleison</span>
+                <span ttm:role="x-translation">耶和华 圣火 怜恤</span>
+            </p>
+            <p begin="00:01:12.955" end="00:01:24.117">
+                <span begin="00:01:12.955" end="00:01:13.307">O </span>
+                <span begin="00:01:13.307" end="00:01:13.787">quam </span>
+                <span begin="00:01:13.787" end="00:01:16.939">sancta </span>
+                <span begin="00:01:16.939" end="00:01:18.222">quam </span>
+                <span begin="00:01:18.222" end="00:01:24.117">serena</span>
+                <span ttm:role="x-translation">啊 何等神圣 何等安详</span>
+            </p>
+            <p begin="00:01:24.117" end="00:01:37.509">
+                <span begin="00:01:24.117" end="00:01:24.549">Quam </span>
+                <span begin="00:01:24.549" end="00:01:28.293">benigma </span>
+                <span begin="00:01:28.293" end="00:01:28.709">quam </span>
+                <span begin="00:01:28.709" end="00:01:32.597">amoena </span>
+                <span begin="00:01:32.597" end="00:01:33.029">esse </span>
+                <span begin="00:01:33.029" end="00:01:34.134">Virgo </span>
+                <span begin="00:01:34.134" end="00:01:37.509">creditur</span>
+                <span ttm:role="x-translation">何等慈爱 何等纯洁的少女</span>
+            </p>
+            <p begin="00:01:37.509" end="00:01:48.794">
+                <span begin="00:01:37.509" end="00:01:37.709">O </span>
+                <span begin="00:01:37.709" end="00:01:38.221">quam </span>
+                <span begin="00:01:38.221" end="00:01:41.549">sancta </span>
+                <span begin="00:01:41.549" end="00:01:42.109">quam </span>
+                <span begin="00:01:42.109" end="00:01:48.794">serena</span>
+                <span ttm:role="x-translation">啊 何等神圣 何等安详</span>
+            </p>
+            <p begin="00:01:48.794" end="00:01:55.908">
+                <span begin="00:01:48.794" end="00:01:49.123">Quam </span>
+                <span begin="00:01:49.123" end="00:01:52.980">benigma </span>
+                <span begin="00:01:52.980" end="00:01:53.363">quam </span>
+                <span begin="00:01:53.363" end="00:01:55.908">amoena</span>
+                <span ttm:role="x-translation">何等慈爱 何等安慰</span>
+            </p>
+            <p begin="00:01:55.908" end="00:02:01.804">
+                <span begin="00:01:55.908" end="00:01:56.165">O </span>
+                <span begin="00:01:56.165" end="00:01:57.987">castitatis </span>
+                <span begin="00:01:57.987" end="00:02:01.804">lilium</span>
+                <span ttm:role="x-translation">啊 纯洁若百合</span>
+            </p>
+        </div>
+    </body>
+</tt>

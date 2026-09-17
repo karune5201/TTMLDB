@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="04:48.046">
+        <div begin="00:00.000" end="02:04.371">
+            <p begin="00:00.000" end="00:21.636" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:00.000" end="00:02.404">Duvet</span>
+                <span begin="00:02.404" end="00:04.808"> </span>
+                <span begin="00:04.808" end="00:07.212">(</span>
+                <span begin="00:07.212" end="00:09.616">Acoustic</span>
+                <span begin="00:09.616" end="00:12.020">)</span>
+                <span begin="00:12.020" end="00:14.424"> </span>
+                <span begin="00:14.424" end="00:16.828">-</span>
+                <span begin="00:16.828" end="00:19.232"> </span>
+                <span begin="00:19.232" end="00:21.636">bôa</span>
+            </p>
+            <p begin="00:21.642" end="00:25.301" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:21.642" end="00:22.060">And </span>
+                <span begin="00:22.060" end="00:22.283">you </span>
+                <span begin="00:22.283" end="00:22.435">don't </span>
+                <span begin="00:22.435" end="00:22.636">seem </span>
+                <span begin="00:22.636" end="00:22.912">to </span>
+                <span begin="00:22.912" end="00:25.301">understand</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你似乎不明白</span>
+            </p>
+            <p begin="00:26.502" end="00:31.496" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:26.502" end="00:26.781">A </span>
+                <span begin="00:26.781" end="00:27.128">shame </span>
+                <span begin="00:27.128" end="00:27.489">you </span>
+                <span begin="00:27.489" end="00:27.929">seemed </span>
+                <span begin="00:27.929" end="00:28.473">an </span>
+                <span begin="00:28.473" end="00:29.393">honest </span>
+                <span begin="00:29.393" end="00:31.496">man</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你似乎是个诚恳的人</span>
+            </p>
+            <p begin="00:32.294" end="00:36.881" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:32.294" end="00:32.678">And </span>
+                <span begin="00:32.678" end="00:32.856">all </span>
+                <span begin="00:32.856" end="00:33.079">the </span>
+                <span begin="00:33.079" end="00:33.628">fears </span>
+                <span begin="00:33.628" end="00:33.900">you </span>
+                <span begin="00:33.900" end="00:34.407">hold </span>
+                <span begin="00:34.407" end="00:34.808">so </span>
+                <span begin="00:34.808" end="00:36.881">dear</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你所抑制的恐惧已无以复加</span>
+            </p>
+            <p begin="00:37.917" end="00:41.983" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:37.917" end="00:38.125">Will </span>
+                <span begin="00:38.125" end="00:38.304">turn </span>
+                <span begin="00:38.304" end="00:38.526">to </span>
+                <span begin="00:38.526" end="00:39.325">whisper </span>
+                <span begin="00:39.325" end="00:39.886">in </span>
+                <span begin="00:39.886" end="00:40.460">your </span>
+                <span begin="00:40.460" end="00:41.983">ear</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">它们的低语萦绕在你的耳际</span>
+            </p>
+            <p begin="00:43.104" end="00:46.019" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:43.104" end="00:43.386">And </span>
+                <span begin="00:43.386" end="00:43.570">you </span>
+                <span begin="00:43.570" end="00:43.756">know </span>
+                <span begin="00:43.756" end="00:44.044">what </span>
+                <span begin="00:44.044" end="00:44.292">they </span>
+                <span begin="00:44.292" end="00:44.505">say </span>
+                <span begin="00:44.505" end="00:44.807">might </span>
+                <span begin="00:44.807" end="00:45.115">hurt </span>
+                <span begin="00:45.115" end="00:46.019">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你知道它们所说的可能会伤害到你</span>
+            </p>
+            <p begin="00:46.028" end="00:48.971" ttm:agent="v1" itunes:key="L7">
+                <span begin="00:46.028" end="00:46.249">And </span>
+                <span begin="00:46.249" end="00:46.448">you </span>
+                <span begin="00:46.448" end="00:46.671">know </span>
+                <span begin="00:46.671" end="00:46.891">that </span>
+                <span begin="00:46.891" end="00:47.295">it </span>
+                <span begin="00:47.295" end="00:47.708">means </span>
+                <span begin="00:47.708" end="00:48.132">so </span>
+                <span begin="00:48.132" end="00:48.971">much</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">而且你知道那意味着太多</span>
+            </p>
+            <p begin="00:48.979" end="00:54.216" ttm:agent="v1" itunes:key="L8">
+                <span begin="00:48.979" end="00:49.245">And </span>
+                <span begin="00:49.245" end="00:49.541">you </span>
+                <span begin="00:49.541" end="00:49.808">don't </span>
+                <span begin="00:49.808" end="00:50.421">even </span>
+                <span begin="00:50.421" end="00:51.071">feel </span>
+                <span begin="00:51.071" end="00:51.502">a </span>
+                <span begin="00:51.502" end="00:54.216">thing</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你却什么也感受不到</span>
+            </p>
+            <p begin="00:54.515" end="00:57.391" ttm:agent="v1" itunes:key="L9">
+                <span begin="00:54.515" end="00:54.765">I </span>
+                <span begin="00:54.765" end="00:55.578">am </span>
+                <span begin="00:55.578" end="00:57.391">falling</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我在坠落</span>
+            </p>
+            <p begin="00:57.394" end="01:00.138" ttm:agent="v1" itunes:key="L10">
+                <span begin="00:57.394" end="00:57.939">I </span>
+                <span begin="00:57.939" end="00:58.242">am </span>
+                <span begin="00:58.242" end="01:00.138">fading</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在凋谢</span>
+            </p>
+            <p begin="01:00.141" end="01:04.583" ttm:agent="v1" itunes:key="L11">
+                <span begin="01:00.141" end="01:00.576">I </span>
+                <span begin="01:00.576" end="01:00.825">have </span>
+                <span begin="01:00.825" end="01:01.767">lost </span>
+                <span begin="01:01.767" end="01:02.417">it </span>
+                <span begin="01:02.417" end="01:04.583">all</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我失去了一切</span>
+            </p>
+            <p begin="01:05.670" end="01:10.476" ttm:agent="v1" itunes:key="L12">
+                <span begin="01:05.670" end="01:05.911">And </span>
+                <span begin="01:05.911" end="01:06.107">you </span>
+                <span begin="01:06.107" end="01:06.519">don't </span>
+                <span begin="01:06.519" end="01:06.750">seem </span>
+                <span begin="01:06.750" end="01:07.168">the </span>
+                <span begin="01:07.168" end="01:08.343">lying </span>
+                <span begin="01:08.343" end="01:10.476">kind</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你看起来并不像一个撒谎的人</span>
+            </p>
+            <p begin="01:11.047" end="01:16.109" ttm:agent="v1" itunes:key="L13">
+                <span begin="01:11.047" end="01:11.344">A </span>
+                <span begin="01:11.344" end="01:11.641">shame </span>
+                <span begin="01:11.641" end="01:11.994">that </span>
+                <span begin="01:11.994" end="01:12.371">I </span>
+                <span begin="01:12.371" end="01:12.730">can </span>
+                <span begin="01:12.730" end="01:13.338">read </span>
+                <span begin="01:13.338" end="01:13.787">your </span>
+                <span begin="01:13.787" end="01:16.109">mind</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在我读出你的内心后却发现了愧疚</span>
+            </p>
+            <p begin="01:16.593" end="01:21.476" ttm:agent="v1" itunes:key="L14">
+                <span begin="01:16.593" end="01:16.868">And </span>
+                <span begin="01:16.868" end="01:17.130">all </span>
+                <span begin="01:17.130" end="01:17.465">the </span>
+                <span begin="01:17.465" end="01:18.020">things </span>
+                <span begin="01:18.020" end="01:18.323">that </span>
+                <span begin="01:18.323" end="01:18.773">I </span>
+                <span begin="01:18.773" end="01:19.358">read </span>
+                <span begin="01:19.358" end="01:21.476">there</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我在你心中读出了一切</span>
+            </p>
+            <p begin="01:22.192" end="01:27.211" ttm:agent="v1" itunes:key="L15">
+                <span begin="01:22.192" end="01:23.212">Candlelit </span>
+                <span begin="01:23.212" end="01:23.487">smile </span>
+                <span begin="01:23.487" end="01:24.093">that </span>
+                <span begin="01:24.093" end="01:24.435">we </span>
+                <span begin="01:24.435" end="01:24.919">both </span>
+                <span begin="01:24.919" end="01:27.211">share</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我们一起分享烛光与微笑</span>
+            </p>
+            <p begin="01:27.631" end="01:30.543" ttm:agent="v1" itunes:key="L16">
+                <span begin="01:27.631" end="01:27.897">And </span>
+                <span begin="01:27.897" end="01:28.080">you </span>
+                <span begin="01:28.080" end="01:28.368">know </span>
+                <span begin="01:28.368" end="01:28.606">I </span>
+                <span begin="01:28.606" end="01:28.836">don't </span>
+                <span begin="01:28.836" end="01:29.225">mean </span>
+                <span begin="01:29.225" end="01:29.505">to </span>
+                <span begin="01:29.505" end="01:30.054">hurt </span>
+                <span begin="01:30.054" end="01:30.543">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你知道我并没有伤害你的意思</span>
+            </p>
+            <p begin="01:30.552" end="01:33.084" ttm:agent="v1" itunes:key="L17">
+                <span begin="01:30.552" end="01:30.841">But </span>
+                <span begin="01:30.841" end="01:31.042">you </span>
+                <span begin="01:31.042" end="01:31.243">know </span>
+                <span begin="01:31.243" end="01:31.478">that </span>
+                <span begin="01:31.478" end="01:31.689">it </span>
+                <span begin="01:31.689" end="01:31.884">means </span>
+                <span begin="01:31.884" end="01:32.099">so </span>
+                <span begin="01:32.099" end="01:33.084">much</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">但你知道那意味着太多</span>
+            </p>
+            <p begin="01:33.388" end="01:38.128" ttm:agent="v1" itunes:key="L18">
+                <span begin="01:33.388" end="01:33.632">And </span>
+                <span begin="01:33.632" end="01:33.827">you </span>
+                <span begin="01:33.827" end="01:34.036">don't </span>
+                <span begin="01:34.036" end="01:34.677">even </span>
+                <span begin="01:34.677" end="01:35.469">feel </span>
+                <span begin="01:35.469" end="01:35.875">a </span>
+                <span begin="01:35.875" end="01:38.128">thing</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你却什么也感受不到</span>
+            </p>
+            <p begin="01:38.942" end="01:41.656" ttm:agent="v1" itunes:key="L19">
+                <span begin="01:38.942" end="01:39.191">I </span>
+                <span begin="01:39.191" end="01:40.115">am </span>
+                <span begin="01:40.115" end="01:41.656">falling</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我在坠落</span>
+            </p>
+            <p begin="01:41.967" end="01:44.265" ttm:agent="v1" itunes:key="L20">
+                <span begin="01:41.967" end="01:42.373">I </span>
+                <span begin="01:42.373" end="01:42.717">am </span>
+                <span begin="01:42.717" end="01:44.265">fading</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在凋谢</span>
+            </p>
+            <p begin="01:44.686" end="01:47.160" ttm:agent="v1" itunes:key="L21">
+                <span begin="01:44.686" end="01:45.295">I </span>
+                <span begin="01:45.295" end="01:45.746">am </span>
+                <span begin="01:45.746" end="01:47.160">drowning</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在沉溺</span>
+            </p>
+            <p begin="01:47.536" end="01:50.535" ttm:agent="v1" itunes:key="L22">
+                <span begin="01:47.536" end="01:47.793">Help </span>
+                <span begin="01:47.793" end="01:48.082">me </span>
+                <span begin="01:48.082" end="01:48.458">to </span>
+                <span begin="01:48.458" end="01:50.535">breathe</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">救救我 让我呼吸</span>
+            </p>
+            <p begin="01:50.539" end="01:52.938" ttm:agent="v1" itunes:key="L23">
+                <span begin="01:50.539" end="01:50.802">I </span>
+                <span begin="01:50.802" end="01:51.170">am </span>
+                <span begin="01:51.170" end="01:52.938">hurting</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我正在受到伤害</span>
+            </p>
+            <p begin="01:52.941" end="01:55.987" ttm:agent="v1" itunes:key="L24">
+                <span begin="01:52.941" end="01:53.408">I </span>
+                <span begin="01:53.408" end="01:53.720">have </span>
+                <span begin="01:53.720" end="01:54.607">lost </span>
+                <span begin="01:54.607" end="01:55.321">it </span>
+                <span begin="01:55.321" end="01:55.987">all</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我已经失去了一切</span>
+            </p>
+            <p begin="01:55.992" end="01:58.469" ttm:agent="v1" itunes:key="L25">
+                <span begin="01:55.992" end="01:56.322">I </span>
+                <span begin="01:56.322" end="01:56.668">am </span>
+                <span begin="01:56.668" end="01:58.469">losing</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我正在失去一切</span>
+            </p>
+            <p begin="01:58.472" end="02:04.371" ttm:agent="v1" itunes:key="L26">
+                <span begin="01:58.472" end="01:58.924">Help </span>
+                <span begin="01:58.924" end="01:59.321">me </span>
+                <span begin="01:59.321" end="01:59.625">to </span>
+                <span begin="01:59.625" end="02:04.371">breathe</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">救救我 让我呼吸</span>
+            </p>
+            <p begin="02:46.325" end="02:48.402" ttm:agent="v1" itunes:key="L27">
+                <span begin="02:46.325" end="02:46.660">I </span>
+                <span begin="02:46.660" end="02:47.079">am </span>
+                <span begin="02:47.079" end="02:48.402">falling</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我在坠落</span>
+            </p>
+        </div>
+        <div begin="02:46.325" end="03:09.308">
+            <p begin="02:48.791" end="02:50.916" ttm:agent="v1" itunes:key="L28">
+                <span begin="02:48.791" end="02:49.079">I </span>
+                <span begin="02:49.079" end="02:49.458">am </span>
+                <span begin="02:49.458" end="02:50.916">failing</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在凋谢</span>
+            </p>
+            <p begin="02:51.453" end="02:53.673" ttm:agent="v1" itunes:key="L29">
+                <span begin="02:51.453" end="02:51.819">I </span>
+                <span begin="02:51.819" end="02:52.570">am </span>
+                <span begin="02:52.570" end="02:53.673">drowning</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在沉溺</span>
+            </p>
+            <p begin="02:54.366" end="02:57.082" ttm:agent="v1" itunes:key="L30">
+                <span begin="02:54.366" end="02:54.619">Help </span>
+                <span begin="02:54.619" end="02:54.875">me </span>
+                <span begin="02:54.875" end="02:55.287">to </span>
+                <span begin="02:55.287" end="02:57.082">breathe</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">救救我 让我呼吸</span>
+            </p>
+            <p begin="02:57.356" end="02:59.719" ttm:agent="v1" itunes:key="L31">
+                <span begin="02:57.356" end="02:57.580">I </span>
+                <span begin="02:57.580" end="02:57.993">am </span>
+                <span begin="02:57.993" end="02:59.719">hurting</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我正在受到伤害</span>
+            </p>
+            <p begin="02:59.722" end="03:02.739" ttm:agent="v1" itunes:key="L32">
+                <span begin="02:59.722" end="03:00.112">I </span>
+                <span begin="03:00.112" end="03:00.448">have </span>
+                <span begin="03:00.448" end="03:01.484">lost </span>
+                <span begin="03:01.484" end="03:02.014">it </span>
+                <span begin="03:02.014" end="03:02.739">all</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我已经失去了一切</span>
+            </p>
+            <p begin="03:02.744" end="03:05.180" ttm:agent="v1" itunes:key="L33">
+                <span begin="03:02.744" end="03:03.049">I </span>
+                <span begin="03:03.049" end="03:03.654">am </span>
+                <span begin="03:03.654" end="03:05.180">losing</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我正在失去一切</span>
+            </p>
+            <p begin="03:05.183" end="03:09.308" ttm:agent="v1" itunes:key="L34">
+                <span begin="03:05.183" end="03:05.696">Help </span>
+                <span begin="03:05.696" end="03:06.011">me </span>
+                <span begin="03:06.011" end="03:06.386">to </span>
+                <span begin="03:06.386" end="03:09.308">breathe</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">救救我 让我呼吸</span>
+            </p>
+            <p begin="03:30.773" end="03:32.626" ttm:agent="v1" itunes:key="L35">
+                <span begin="03:30.773" end="03:31.032">I </span>
+                <span begin="03:31.032" end="03:31.559">am </span>
+                <span begin="03:31.559" end="03:32.626">falling</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我在坠落</span>
+            </p>
+        </div>
+        <div begin="03:30.773" end="04:48.046">
+            <p begin="03:33.060" end="03:35.257" ttm:agent="v1" itunes:key="L36">
+                <span begin="03:33.060" end="03:33.387">I </span>
+                <span begin="03:33.387" end="03:34.157">am </span>
+                <span begin="03:34.157" end="03:35.257">failing</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在凋谢</span>
+            </p>
+            <p begin="03:36.002" end="03:38.058" ttm:agent="v1" itunes:key="L37">
+                <span begin="03:36.002" end="03:36.304">I </span>
+                <span begin="03:36.304" end="03:36.735">am </span>
+                <span begin="03:36.735" end="03:38.058">drowning</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">在沉溺</span>
+            </p>
+            <p begin="03:38.812" end="03:41.558" ttm:agent="v1" itunes:key="L38">
+                <span begin="03:38.812" end="03:39.093">Help </span>
+                <span begin="03:39.093" end="03:39.402">me </span>
+                <span begin="03:39.402" end="03:39.763">to </span>
+                <span begin="03:39.763" end="03:41.558">breathe</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">救救我 让我呼吸</span>
+            </p>
+            <p begin="03:41.810" end="03:44.444" ttm:agent="v1" itunes:key="L39">
+                <span begin="03:41.810" end="03:42.038">I </span>
+                <span begin="03:42.038" end="03:42.566">am </span>
+                <span begin="03:42.566" end="03:44.444">hurting</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我正在受到伤害</span>
+            </p>
+            <p begin="03:44.447" end="03:47.294" ttm:agent="v1" itunes:key="L40">
+                <span begin="03:44.447" end="03:44.675">I </span>
+                <span begin="03:44.675" end="03:45.277">have </span>
+                <span begin="03:45.277" end="03:45.859">lost </span>
+                <span begin="03:45.859" end="03:46.776">it </span>
+                <span begin="03:46.776" end="03:47.294">all</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我已经失去了一切</span>
+            </p>
+            <p begin="03:47.299" end="03:49.958" ttm:agent="v1" itunes:key="L41">
+                <span begin="03:47.299" end="03:47.552">I </span>
+                <span begin="03:47.552" end="03:48.373">am </span>
+                <span begin="03:48.373" end="03:49.958">losing</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我正在失去一切</span>
+            </p>
+            <p begin="03:49.961" end="04:48.046" ttm:agent="v1" itunes:key="L42">
+                <span begin="03:49.961" end="03:50.254">Help </span>
+                <span begin="03:50.254" end="03:50.547">me </span>
+                <span begin="03:50.547" end="03:50.912">to </span>
+                <span begin="03:50.912" end="04:48.046">breathe</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">救救我 让我呼吸</span>
+            </p>
+        </div>
+    </body>
+</tt>

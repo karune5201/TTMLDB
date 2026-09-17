@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="03:28.023">
+        <div begin="00:39.769" end="01:15.350">
+            <p begin="00:39.769" end="00:43.158" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:39.769" end="00:40.001">I </span>
+                <span begin="00:40.001" end="00:40.077">could </span>
+                <span begin="00:40.077" end="00:40.517">never </span>
+                <span begin="00:40.517" end="00:40.860">find </span>
+                <span begin="00:40.860" end="00:41.156">the </span>
+                <span begin="00:41.156" end="00:41.479">right </span>
+                <span begin="00:41.479" end="00:42.279">way </span>
+                <span begin="00:42.279" end="00:42.590">to </span>
+                <span begin="00:42.590" end="00:42.894">tell </span>
+                <span begin="00:42.894" end="00:43.158">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我永远无法找到合适的方式来告诉你</span>
+            </p>
+            <p begin="00:44.358" end="00:46.628" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:44.358" end="00:44.630">Have </span>
+                <span begin="00:44.630" end="00:44.784">you </span>
+                <span begin="00:44.784" end="00:45.265">noticed </span>
+                <span begin="00:45.265" end="00:45.550">I've </span>
+                <span begin="00:45.550" end="00:45.848">been </span>
+                <span begin="00:45.848" end="00:46.628">gone</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你是否注意到我已经不在你身边</span>
+            </p>
+            <p begin="00:49.148" end="00:52.917" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:49.148" end="00:49.445">Cause </span>
+                <span begin="00:49.445" end="00:49.700">I </span>
+                <span begin="00:49.700" end="00:49.972">left </span>
+                <span begin="00:49.972" end="00:50.529">behind </span>
+                <span begin="00:50.529" end="00:50.817">the </span>
+                <span begin="00:50.817" end="00:51.645">home </span>
+                <span begin="00:51.645" end="00:51.949">that </span>
+                <span begin="00:51.949" end="00:52.229">you </span>
+                <span begin="00:52.229" end="00:52.493">made </span>
+                <span begin="00:52.493" end="00:52.917">me</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">是你让我离开你为我建造的家园</span>
+            </p>
+            <p begin="00:53.989" end="00:56.589" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:53.989" end="00:54.269">And </span>
+                <span begin="00:54.269" end="00:54.558">I </span>
+                <span begin="00:54.558" end="00:55.044">carried </span>
+                <span begin="00:55.044" end="00:55.308">it </span>
+                <span begin="00:55.308" end="00:56.589">along</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">但我会一直坚守下去</span>
+            </p>
+            <p begin="00:57.370" end="01:01.763" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:57.370" end="00:57.650">And </span>
+                <span begin="00:57.650" end="00:57.906">it's </span>
+                <span begin="00:57.906" end="00:58.170">a </span>
+                <span begin="00:58.170" end="00:58.530">long </span>
+                <span begin="00:58.530" end="00:58.920">way </span>
+                <span begin="00:58.920" end="01:00.256">forward </span>
+                <span begin="01:00.256" end="01:00.536">so </span>
+                <span begin="01:00.536" end="01:01.148">trust </span>
+                <span begin="01:01.148" end="01:01.397">in </span>
+                <span begin="01:01.397" end="01:01.763">me</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">尽管这是一段漫长的旅程 但请相信我</span>
+            </p>
+            <p begin="01:02.828" end="01:06.429" ttm:agent="v1" itunes:key="L6">
+                <span begin="01:02.828" end="01:03.068">I'll </span>
+                <span begin="01:03.068" end="01:03.164">give </span>
+                <span begin="01:03.164" end="01:03.540">the </span>
+                <span begin="01:03.540" end="01:04.233">shelter </span>
+                <span begin="01:04.233" end="01:04.560">like </span>
+                <span begin="01:04.560" end="01:05.260">you've </span>
+                <span begin="01:05.260" end="01:05.589">done </span>
+                <span begin="01:05.589" end="01:05.947">for </span>
+                <span begin="01:05.947" end="01:06.429">me</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会给你安心的庇护之所 就像你为我所做的一样</span>
+            </p>
+            <p begin="01:06.917" end="01:12.865" ttm:agent="v1" itunes:key="L7">
+                <span begin="01:06.917" end="01:07.197">And </span>
+                <span begin="01:07.197" end="01:07.445">I </span>
+                <span begin="01:07.445" end="01:08.370">know </span>
+                <span begin="01:08.370" end="01:08.625">I'm </span>
+                <span begin="01:08.625" end="01:10.756">not </span>
+                <span begin="01:10.756" end="01:11.049">alone </span>
+                <span begin="01:11.049" end="01:11.305">you'll </span>
+                <span begin="01:11.305" end="01:11.601">be </span>
+                <span begin="01:11.601" end="01:11.927">watching </span>
+                <span begin="01:11.927" end="01:12.466">over </span>
+                <span begin="01:12.466" end="01:12.865">us</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我知道我并不孤独 你会一直守护我</span>
+            </p>
+            <p begin="01:13.230" end="01:15.350" ttm:agent="v1" itunes:key="L8">
+                <span begin="01:13.230" end="01:14.357">Until </span>
+                <span begin="01:14.357" end="01:14.590">you're </span>
+                <span begin="01:14.590" end="01:15.350">gone</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">直到你离我而去</span>
+            </p>
+            <p begin="01:56.650" end="02:00.161" ttm:agent="v1" itunes:key="L9">
+                <span begin="01:56.650" end="01:56.863">When </span>
+                <span begin="01:56.863" end="01:57.070">I'm </span>
+                <span begin="01:57.070" end="01:57.509">older </span>
+                <span begin="01:57.509" end="01:57.789">I'll </span>
+                <span begin="01:57.789" end="01:58.005">be </span>
+                <span begin="01:58.005" end="01:59.101">silenced </span>
+                <span begin="01:59.101" end="01:59.774">beside </span>
+                <span begin="01:59.774" end="02:00.161">you</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">当我两鬓斑白 我会默默守护你</span>
+            </p>
+        </div>
+        <div begin="01:56.650" end="02:32.385">
+            <p begin="02:01.161" end="02:03.933" ttm:agent="v1" itunes:key="L10">
+                <span begin="02:01.161" end="02:01.409">And </span>
+                <span begin="02:01.409" end="02:01.715">the </span>
+                <span begin="02:01.715" end="02:02.096">words </span>
+                <span begin="02:02.096" end="02:02.357">won't </span>
+                <span begin="02:02.357" end="02:02.644">be </span>
+                <span begin="02:02.644" end="02:03.933">enough</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">仅是这些誓言并不够</span>
+            </p>
+            <p begin="02:05.840" end="02:10.018" ttm:agent="v1" itunes:key="L11">
+                <span begin="02:05.840" end="02:05.882">And </span>
+                <span begin="02:05.882" end="02:06.146">you </span>
+                <span begin="02:06.146" end="02:06.394">won't </span>
+                <span begin="02:06.394" end="02:06.630">need </span>
+                <span begin="02:06.630" end="02:06.915">to </span>
+                <span begin="02:06.915" end="02:07.363">know </span>
+                <span begin="02:07.363" end="02:07.659">the </span>
+                <span begin="02:07.659" end="02:08.271">names </span>
+                <span begin="02:08.271" end="02:08.598">on </span>
+                <span begin="02:08.598" end="02:08.870">our </span>
+                <span begin="02:08.870" end="02:10.018">faces</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">你无需牢记我们的脸孔 我们的名字</span>
+            </p>
+            <p begin="02:10.602" end="02:13.308" ttm:agent="v1" itunes:key="L12">
+                <span begin="02:10.602" end="02:10.858">But </span>
+                <span begin="02:10.858" end="02:11.103">that'll </span>
+                <span begin="02:11.103" end="02:11.709">carry </span>
+                <span begin="02:11.709" end="02:12.172">on </span>
+                <span begin="02:12.172" end="02:12.428">for </span>
+                <span begin="02:12.428" end="02:13.308">us</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">尽管这会与我们一路相随</span>
+            </p>
+            <p begin="02:14.015" end="02:18.644" ttm:agent="v1" itunes:key="L13">
+                <span begin="02:14.015" end="02:14.447">And </span>
+                <span begin="02:14.447" end="02:14.718">it's </span>
+                <span begin="02:14.718" end="02:14.955">a </span>
+                <span begin="02:14.955" end="02:15.218">long </span>
+                <span begin="02:15.218" end="02:15.613">way </span>
+                <span begin="02:15.613" end="02:17.010">forward </span>
+                <span begin="02:17.010" end="02:17.290">so </span>
+                <span begin="02:17.290" end="02:17.919">trust </span>
+                <span begin="02:17.919" end="02:18.236">in </span>
+                <span begin="02:18.236" end="02:18.644">me</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">尽管这是一段漫长的旅程 但请相信我</span>
+            </p>
+            <p begin="02:19.622" end="02:23.123" ttm:agent="v1" itunes:key="L14">
+                <span begin="02:19.622" end="02:19.924">I'll </span>
+                <span begin="02:19.924" end="02:20.212">give </span>
+                <span begin="02:20.212" end="02:20.516">the </span>
+                <span begin="02:20.516" end="02:21.338">shelter </span>
+                <span begin="02:21.338" end="02:21.785">like </span>
+                <span begin="02:21.785" end="02:22.201">you've </span>
+                <span begin="02:22.201" end="02:22.554">done </span>
+                <span begin="02:22.554" end="02:22.835">for </span>
+                <span begin="02:22.835" end="02:23.123">me</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会给你安心的庇护之所 就像你为我所做的一样</span>
+            </p>
+            <p begin="02:23.658" end="02:29.513" ttm:agent="v1" itunes:key="L15">
+                <span begin="02:23.658" end="02:23.907">And </span>
+                <span begin="02:23.907" end="02:24.131">I </span>
+                <span begin="02:24.131" end="02:25.243">know </span>
+                <span begin="02:25.243" end="02:25.492">I'm </span>
+                <span begin="02:25.492" end="02:26.235">not </span>
+                <span begin="02:26.235" end="02:27.544">alone </span>
+                <span begin="02:27.544" end="02:27.789">you'll </span>
+                <span begin="02:27.789" end="02:28.037">be </span>
+                <span begin="02:28.037" end="02:28.420">watching </span>
+                <span begin="02:28.420" end="02:29.100">over </span>
+                <span begin="02:29.100" end="02:29.513">us</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我知道我并不孤独 你会一直守护我</span>
+            </p>
+            <p begin="02:29.956" end="02:32.385" ttm:agent="v1" itunes:key="L16">
+                <span begin="02:29.956" end="02:31.141">Until </span>
+                <span begin="02:31.141" end="02:31.402">you're </span>
+                <span begin="02:31.402" end="02:32.385">gone</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">直到你离我而去</span>
+            </p>
+            <p begin="03:12.155" end="03:16.176" ttm:agent="v1" itunes:key="L17">
+                <span begin="03:12.155" end="03:12.363">And </span>
+                <span begin="03:12.363" end="03:12.579">it's </span>
+                <span begin="03:12.579" end="03:12.773">a </span>
+                <span begin="03:12.773" end="03:12.980">long </span>
+                <span begin="03:12.980" end="03:13.267">way </span>
+                <span begin="03:13.267" end="03:13.760">forward </span>
+                <span begin="03:13.760" end="03:14.904">so </span>
+                <span begin="03:14.904" end="03:15.474">trust </span>
+                <span begin="03:15.474" end="03:15.736">in </span>
+                <span begin="03:15.736" end="03:16.176">me</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">尽管这是一段漫长的旅程 但请相信我</span>
+            </p>
+        </div>
+        <div begin="03:12.155" end="03:28.023">
+            <p begin="03:17.284" end="03:20.870" ttm:agent="v1" itunes:key="L18">
+                <span begin="03:17.284" end="03:17.584">I'll </span>
+                <span begin="03:17.584" end="03:17.843">give </span>
+                <span begin="03:17.843" end="03:18.128">the </span>
+                <span begin="03:18.128" end="03:18.909">shelter </span>
+                <span begin="03:18.909" end="03:19.216">like </span>
+                <span begin="03:19.216" end="03:19.790">you've </span>
+                <span begin="03:19.790" end="03:20.079">done </span>
+                <span begin="03:20.079" end="03:20.406">for </span>
+                <span begin="03:20.406" end="03:20.870">me</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我会给你安心的庇护之所 就像你为我所做的一样</span>
+            </p>
+            <p begin="03:21.294" end="03:27.213" ttm:agent="v1" itunes:key="L19">
+                <span begin="03:21.294" end="03:21.565">And </span>
+                <span begin="03:21.565" end="03:21.838">I </span>
+                <span begin="03:21.838" end="03:22.928">know </span>
+                <span begin="03:22.928" end="03:23.150">I'm </span>
+                <span begin="03:23.150" end="03:24.358">not </span>
+                <span begin="03:24.358" end="03:25.166">alone </span>
+                <span begin="03:25.166" end="03:25.422">you'll </span>
+                <span begin="03:25.422" end="03:25.678">be </span>
+                <span begin="03:25.678" end="03:25.966">watching </span>
+                <span begin="03:25.966" end="03:26.796">over </span>
+                <span begin="03:26.796" end="03:27.213">us</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">我知道我并不孤独 你会一直守护我</span>
+            </p>
+            <p begin="03:27.629" end="03:28.023" ttm:agent="v1" itunes:key="L20">
+                <span begin="03:27.629" end="03:28.023">Until</span>
+                <span ttm:role="x-translation" xml:lang="zh-CN">直到</span>
+            </p>
+        </div>
+    </body>
+</tt>
