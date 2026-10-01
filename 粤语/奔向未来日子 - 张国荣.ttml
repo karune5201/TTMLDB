@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><tt xmlns="http://www.w3.org/ns/ttml" xmlns:itunes="http://music.apple.com/lyric-ttml-internal" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" itunes:timing="Word">
+    <head>
+        <metadata>
+            <ttm:agent type="person" xml:id="v1"/>
+        </metadata>
+    </head>
+    <body dur="04:08.036">
+        <div begin="00:29.436" end="02:22.761">
+            <p begin="00:29.436" end="00:35.086" ttm:agent="v1" itunes:key="L1">
+                <span begin="00:29.436" end="00:29.983">无</span>
+                <span begin="00:29.983" end="00:30.421">谓</span>
+                <span begin="00:30.421" end="00:30.695">问</span>
+                <span begin="00:30.695" end="00:31.660">我</span>
+                <span begin="00:31.660" end="00:32.063">今</span>
+                <span begin="00:32.063" end="00:33.275">天</span>
+                <span begin="00:33.275" end="00:33.628">的</span>
+                <span begin="00:33.628" end="00:35.086">事</span>
+            </p>
+            <p begin="00:35.670" end="00:39.957" ttm:agent="v1" itunes:key="L2">
+                <span begin="00:35.670" end="00:36.230">无</span>
+                <span begin="00:36.230" end="00:36.487">谓</span>
+                <span begin="00:36.487" end="00:36.768">去</span>
+                <span begin="00:36.768" end="00:37.523">知</span>
+                <span begin="00:37.523" end="00:37.815">不</span>
+                <span begin="00:37.815" end="00:38.155">要</span>
+                <span begin="00:38.155" end="00:38.367">问</span>
+                <span begin="00:38.367" end="00:38.708">意</span>
+                <span begin="00:38.708" end="00:39.957">义</span>
+            </p>
+            <p begin="00:40.804" end="00:44.289" ttm:agent="v1" itunes:key="L3">
+                <span begin="00:40.804" end="00:41.319">有</span>
+                <span begin="00:41.319" end="00:41.553">意</span>
+                <span begin="00:41.553" end="00:42.623">义</span>
+                <span begin="00:42.623" end="00:42.871">无</span>
+                <span begin="00:42.871" end="00:43.083">意</span>
+                <span begin="00:43.083" end="00:44.289">义</span>
+            </p>
+            <p begin="00:43.992" end="00:47.123" ttm:agent="v1" itunes:key="L4">
+                <span begin="00:43.992" end="00:44.665">怎</span>
+                <span begin="00:44.665" end="00:45.432">么</span>
+                <span begin="00:45.432" end="00:45.839">定</span>
+                <span begin="00:45.839" end="00:47.123">判</span>
+            </p>
+            <p begin="00:47.334" end="00:53.508" ttm:agent="v1" itunes:key="L5">
+                <span begin="00:47.334" end="00:47.927">不</span>
+                <span begin="00:47.927" end="00:48.987">想</span>
+                <span begin="00:48.987" end="00:49.387">不</span>
+                <span begin="00:49.387" end="00:50.635">记</span>
+                <span begin="00:50.635" end="00:51.042">不</span>
+                <span begin="00:51.042" end="00:53.508">知</span>
+            </p>
+            <p begin="00:54.398" end="01:00.339" ttm:agent="v1" itunes:key="L6">
+                <span begin="00:54.398" end="00:55.055">无</span>
+                <span begin="00:55.055" end="00:55.395">谓</span>
+                <span begin="00:55.395" end="00:55.708">问</span>
+                <span begin="00:55.708" end="00:56.979">我</span>
+                <span begin="00:56.979" end="00:57.307">一</span>
+                <span begin="00:57.307" end="00:58.547">生</span>
+                <span begin="00:58.547" end="00:58.911">的</span>
+                <span begin="00:58.911" end="01:00.339">事</span>
+            </p>
+            <p begin="01:00.907" end="01:05.843" ttm:agent="v1" itunes:key="L7">
+                <span begin="01:00.907" end="01:01.467">谁</span>
+                <span begin="01:01.467" end="01:01.747">愿</span>
+                <span begin="01:01.747" end="01:02.135">意</span>
+                <span begin="01:02.135" end="01:02.883">讲</span>
+                <span begin="01:02.883" end="01:03.159">失</span>
+                <span begin="01:03.159" end="01:03.647">落</span>
+                <span begin="01:03.647" end="01:04.115">往</span>
+                <span begin="01:04.115" end="01:05.843">事</span>
+            </p>
+            <p begin="01:06.171" end="01:12.431" ttm:agent="v1" itunes:key="L8">
+                <span begin="01:06.171" end="01:06.895">有</span>
+                <span begin="01:06.895" end="01:08.035">情</span>
+                <span begin="01:08.035" end="01:08.427">无</span>
+                <span begin="01:08.427" end="01:09.665">情</span>
+                <span begin="01:09.665" end="01:10.035">不</span>
+                <span begin="01:10.035" end="01:10.854">要</span>
+                <span begin="01:10.854" end="01:11.243">问</span>
+                <span begin="01:11.243" end="01:12.431">我</span>
+            </p>
+            <p begin="01:12.563" end="01:15.927" ttm:agent="v1" itunes:key="L9">
+                <span begin="01:12.563" end="01:13.097">不</span>
+                <span begin="01:13.097" end="01:13.363">理</span>
+                <span begin="01:13.363" end="01:14.396">会</span>
+                <span begin="01:14.396" end="01:14.587">不</span>
+                <span begin="01:14.587" end="01:14.871">追</span>
+                <span begin="01:14.871" end="01:15.927">悔</span>
+            </p>
+            <p begin="01:15.633" end="01:21.855" ttm:agent="v1" itunes:key="L10">
+                <span begin="01:15.633" end="01:16.246">不</span>
+                <span begin="01:16.246" end="01:16.635">解</span>
+                <span begin="01:16.635" end="01:18.800">释</span>
+                <span begin="01:18.800" end="01:19.610">意</span>
+                <span begin="01:19.610" end="01:21.855">思</span>
+            </p>
+            <p begin="01:25.498" end="01:29.930" ttm:agent="v1" itunes:key="L11">
+                <span begin="01:25.498" end="01:26.018">无</span>
+                <span begin="01:26.018" end="01:27.087">泪</span>
+                <span begin="01:27.087" end="01:27.446">无</span>
+                <span begin="01:27.446" end="01:29.930">语</span>
+            </p>
+            <p begin="01:29.634" end="01:36.218" ttm:agent="v1" itunes:key="L12">
+                <span begin="01:29.634" end="01:30.286">心</span>
+                <span begin="01:30.286" end="01:30.646">中</span>
+                <span begin="01:30.646" end="01:31.026">鲜</span>
+                <span begin="01:31.026" end="01:31.910">血</span>
+                <span begin="01:31.910" end="01:32.122">倾</span>
+                <span begin="01:32.122" end="01:32.336">出</span>
+                <span begin="01:32.336" end="01:32.680">不</span>
+                <span begin="01:32.680" end="01:33.454">愿</span>
+                <span begin="01:33.454" end="01:33.778">你</span>
+                <span begin="01:33.778" end="01:36.218">知</span>
+            </p>
+            <p begin="01:35.918" end="01:41.396" ttm:agent="v1" itunes:key="L13">
+                <span begin="01:35.918" end="01:36.594">一</span>
+                <span begin="01:36.594" end="01:36.966">心</span>
+                <span begin="01:36.966" end="01:37.337">一</span>
+                <span begin="01:37.337" end="01:38.252">意</span>
+                <span begin="01:38.252" end="01:38.470">奔</span>
+                <span begin="01:38.470" end="01:38.646">向</span>
+                <span begin="01:38.646" end="01:39.154">那</span>
+                <span begin="01:39.154" end="01:39.414">未</span>
+                <span begin="01:39.414" end="01:39.946">来</span>
+                <span begin="01:39.946" end="01:40.235">日</span>
+                <span begin="01:40.235" end="01:41.396">子</span>
+            </p>
+            <p begin="01:41.438" end="01:50.501" ttm:agent="v1" itunes:key="L14">
+                <span begin="01:41.438" end="01:41.966">我</span>
+                <span begin="01:41.966" end="01:42.642">以</span>
+                <span begin="01:42.642" end="01:43.242">后</span>
+                <span begin="01:43.242" end="01:43.507">陪</span>
+                <span begin="01:43.507" end="01:44.866">你</span>
+                <span begin="01:44.866" end="01:45.110">寻</span>
+                <span begin="01:45.110" end="01:46.470">觅</span>
+                <span begin="01:46.470" end="01:47.270">好</span>
+                <span begin="01:47.270" end="01:48.041">故</span>
+                <span begin="01:48.041" end="01:50.501">事</span>
+            </p>
+            <p begin="01:51.482" end="01:57.539" ttm:agent="v1" itunes:key="L15">
+                <span begin="01:51.482" end="01:52.136">无</span>
+                <span begin="01:52.136" end="01:52.526">谓</span>
+                <span begin="01:52.526" end="01:52.862">问</span>
+                <span begin="01:52.862" end="01:54.050">我</span>
+                <span begin="01:54.050" end="01:54.460">伤</span>
+                <span begin="01:54.460" end="01:56.082">心</span>
+                <span begin="01:56.082" end="01:57.539">事</span>
+            </p>
+            <p begin="01:57.878" end="02:03.079" ttm:agent="v1" itunes:key="L16">
+                <span begin="01:57.878" end="01:58.426">无</span>
+                <span begin="01:58.426" end="01:58.846">谓</span>
+                <span begin="01:58.846" end="01:59.254">去</span>
+                <span begin="01:59.254" end="01:59.986">想</span>
+                <span begin="01:59.986" end="02:00.246">不</span>
+                <span begin="02:00.246" end="02:00.540">再</span>
+                <span begin="02:00.540" end="02:00.772">是</span>
+                <span begin="02:00.772" end="02:01.190">往</span>
+                <span begin="02:01.190" end="02:03.079">事</span>
+            </p>
+            <p begin="02:03.346" end="02:09.776" ttm:agent="v1" itunes:key="L17">
+                <span begin="02:03.346" end="02:04.000">有</span>
+                <span begin="02:04.000" end="02:05.072">时</span>
+                <span begin="02:05.072" end="02:05.326">有</span>
+                <span begin="02:05.326" end="02:05.526">阵</span>
+                <span begin="02:05.526" end="02:06.808">时</span>
+                <span begin="02:06.808" end="02:07.158">不</span>
+                <span begin="02:07.158" end="02:08.498">得</span>
+                <span begin="02:08.498" end="02:09.776">已</span>
+            </p>
+            <p begin="02:09.752" end="02:15.728" ttm:agent="v1" itunes:key="L18">
+                <span begin="02:09.752" end="02:10.325">中</span>
+                <span begin="02:10.325" end="02:11.506">间</span>
+                <span begin="02:11.506" end="02:11.915">经</span>
+                <span begin="02:11.915" end="02:12.934">过</span>
+                <span begin="02:12.934" end="02:13.194">不</span>
+                <span begin="02:13.194" end="02:13.901">会</span>
+                <span begin="02:13.901" end="02:15.728">知</span>
+            </p>
+            <p begin="02:15.965" end="02:22.761" ttm:agent="v1" itunes:key="L19">
+                <span begin="02:15.965" end="02:16.591">不</span>
+                <span begin="02:16.591" end="02:16.861">会</span>
+                <span begin="02:16.861" end="02:22.761">知</span>
+            </p>
+            <p begin="02:42.269" end="02:48.955" ttm:agent="v1" itunes:key="L20">
+                <span begin="02:42.269" end="02:42.897">无</span>
+                <span begin="02:42.897" end="02:43.265">谓</span>
+                <span begin="02:43.265" end="02:43.625">问</span>
+                <span begin="02:43.625" end="02:44.880">我</span>
+                <span begin="02:44.880" end="02:45.213">一</span>
+                <span begin="02:45.213" end="02:46.381">生</span>
+                <span begin="02:46.381" end="02:46.757">的</span>
+                <span begin="02:46.757" end="02:48.955">事</span>
+            </p>
+        </div>
+        <div begin="02:42.269" end="04:08.036">
+            <p begin="02:48.657" end="02:53.239" ttm:agent="v1" itunes:key="L21">
+                <span begin="02:48.657" end="02:49.273">谁</span>
+                <span begin="02:49.273" end="02:49.589">愿</span>
+                <span begin="02:49.589" end="02:49.925">意</span>
+                <span begin="02:49.925" end="02:50.861">讲</span>
+                <span begin="02:50.861" end="02:51.109">失</span>
+                <span begin="02:51.109" end="02:51.546">落</span>
+                <span begin="02:51.546" end="02:52.031">往</span>
+                <span begin="02:52.031" end="02:53.239">事</span>
+            </p>
+            <p begin="02:54.129" end="03:00.754" ttm:agent="v1" itunes:key="L22">
+                <span begin="02:54.129" end="02:54.753">有</span>
+                <span begin="02:54.753" end="02:55.943">情</span>
+                <span begin="02:55.943" end="02:56.285">无</span>
+                <span begin="02:56.285" end="02:57.513">情</span>
+                <span begin="02:57.513" end="02:57.873">不</span>
+                <span begin="02:57.873" end="02:58.673">要</span>
+                <span begin="02:58.673" end="02:59.046">问</span>
+                <span begin="02:59.046" end="03:00.754">我</span>
+            </p>
+            <p begin="03:00.456" end="03:03.747" ttm:agent="v1" itunes:key="L23">
+                <span begin="03:00.456" end="03:01.029">不</span>
+                <span begin="03:01.029" end="03:01.241">理</span>
+                <span begin="03:01.241" end="03:02.296">会</span>
+                <span begin="03:02.296" end="03:02.489">不</span>
+                <span begin="03:02.489" end="03:02.691">追</span>
+                <span begin="03:02.691" end="03:03.747">悔</span>
+            </p>
+            <p begin="03:03.454" end="03:10.311" ttm:agent="v1" itunes:key="L24">
+                <span begin="03:03.454" end="03:04.109">不</span>
+                <span begin="03:04.109" end="03:04.428">解</span>
+                <span begin="03:04.428" end="03:06.736">释</span>
+                <span begin="03:06.736" end="03:07.496">意</span>
+                <span begin="03:07.496" end="03:10.311">思</span>
+            </p>
+            <p begin="03:13.118" end="03:17.795" ttm:agent="v1" itunes:key="L25">
+                <span begin="03:13.118" end="03:13.764">无</span>
+                <span begin="03:13.764" end="03:15.064">泪</span>
+                <span begin="03:15.064" end="03:15.421">无</span>
+                <span begin="03:15.421" end="03:17.795">语</span>
+            </p>
+            <p begin="03:17.496" end="03:23.324" ttm:agent="v1" itunes:key="L26">
+                <span begin="03:17.496" end="03:18.132">心</span>
+                <span begin="03:18.132" end="03:18.496">中</span>
+                <span begin="03:18.496" end="03:18.823">鲜</span>
+                <span begin="03:18.823" end="03:19.704">血</span>
+                <span begin="03:19.704" end="03:19.923">倾</span>
+                <span begin="03:19.923" end="03:20.144">出</span>
+                <span begin="03:20.144" end="03:20.524">不</span>
+                <span begin="03:20.524" end="03:21.172">愿</span>
+                <span begin="03:21.172" end="03:21.654">你</span>
+                <span begin="03:21.654" end="03:23.324">知</span>
+            </p>
+            <p begin="03:23.945" end="03:29.517" ttm:agent="v1" itunes:key="L27">
+                <span begin="03:23.945" end="03:24.585">一</span>
+                <span begin="03:24.585" end="03:24.969">心</span>
+                <span begin="03:24.969" end="03:25.397">一</span>
+                <span begin="03:25.397" end="03:26.117">意</span>
+                <span begin="03:26.117" end="03:26.449">奔</span>
+                <span begin="03:26.449" end="03:26.688">向</span>
+                <span begin="03:26.688" end="03:27.161">那</span>
+                <span begin="03:27.161" end="03:27.793">未</span>
+                <span begin="03:27.793" end="03:28.063">来</span>
+                <span begin="03:28.063" end="03:28.316">日</span>
+                <span begin="03:28.316" end="03:29.517">子</span>
+            </p>
+            <p begin="03:29.219" end="03:37.869" ttm:agent="v1" itunes:key="L28">
+                <span begin="03:29.219" end="03:29.877">我</span>
+                <span begin="03:29.877" end="03:30.253">以</span>
+                <span begin="03:30.253" end="03:31.369">后</span>
+                <span begin="03:31.369" end="03:31.595">陪</span>
+                <span begin="03:31.595" end="03:32.853">你</span>
+                <span begin="03:32.853" end="03:33.097">寻</span>
+                <span begin="03:33.097" end="03:34.512">觅</span>
+                <span begin="03:34.512" end="03:35.245">好</span>
+                <span begin="03:35.245" end="03:36.079">故</span>
+                <span begin="03:36.079" end="03:37.869">事</span>
+            </p>
+            <p begin="03:39.493" end="03:45.661" ttm:agent="v1" itunes:key="L29">
+                <span begin="03:39.493" end="03:40.171">无</span>
+                <span begin="03:40.171" end="03:40.533">谓</span>
+                <span begin="03:40.533" end="03:40.949">问</span>
+                <span begin="03:40.949" end="03:42.158">我</span>
+                <span begin="03:42.158" end="03:42.465">伤</span>
+                <span begin="03:42.465" end="03:44.094">心</span>
+                <span begin="03:44.094" end="03:45.661">事</span>
+            </p>
+            <p begin="03:45.797" end="03:51.072" ttm:agent="v1" itunes:key="L30">
+                <span begin="03:45.797" end="03:46.540">无</span>
+                <span begin="03:46.540" end="03:47.057">谓</span>
+                <span begin="03:47.057" end="03:47.317">去</span>
+                <span begin="03:47.317" end="03:48.111">想</span>
+                <span begin="03:48.111" end="03:48.372">不</span>
+                <span begin="03:48.372" end="03:48.629">再</span>
+                <span begin="03:48.629" end="03:48.844">是</span>
+                <span begin="03:48.844" end="03:49.313">往</span>
+                <span begin="03:49.313" end="03:51.072">事</span>
+            </p>
+            <p begin="03:51.336" end="03:57.980" ttm:agent="v1" itunes:key="L31">
+                <span begin="03:51.336" end="03:51.996">有</span>
+                <span begin="03:51.996" end="03:53.232">时</span>
+                <span begin="03:53.232" end="03:53.428">有</span>
+                <span begin="03:53.428" end="03:53.638">阵</span>
+                <span begin="03:53.638" end="03:54.864">时</span>
+                <span begin="03:54.864" end="03:55.192">不</span>
+                <span begin="03:55.192" end="03:56.432">得</span>
+                <span begin="03:56.432" end="03:57.980">已</span>
+            </p>
+            <p begin="03:57.944" end="04:03.764" ttm:agent="v1" itunes:key="L32">
+                <span begin="03:57.944" end="03:58.512">中</span>
+                <span begin="03:58.512" end="03:59.657">间</span>
+                <span begin="03:59.657" end="03:59.992">经</span>
+                <span begin="03:59.992" end="04:01.169">过</span>
+                <span begin="04:01.169" end="04:01.669">不</span>
+                <span begin="04:01.669" end="04:01.917">会</span>
+                <span begin="04:01.917" end="04:03.764">知</span>
+            </p>
+            <p begin="04:04.400" end="04:08.036" ttm:agent="v1" itunes:key="L33">
+                <span begin="04:04.400" end="04:05.482">不</span>
+                <span begin="04:05.482" end="04:06.856">会</span>
+                <span begin="04:06.856" end="04:08.036">知</span>
+            </p>
+        </div>
+    </body>
+</tt>
